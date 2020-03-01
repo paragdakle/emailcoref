@@ -24,7 +24,9 @@ An email thread annotation is saved with the following naming convention:
 username_email_no.conll
 
 where:
+
 username - Name of the user directory in the Enron Email Corpus.
+
 email_no - Filename in the inbox folder of the specific user.
 
 Each annotation file is a four column tab separated file and contains speaker, entity type (P: PER, O: ORG, L: LOC, D: DIG) and coreference annotations. Detailed column information in the order found is as follows:
