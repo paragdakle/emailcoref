@@ -1,0 +1,475 @@
+#begin document (davis_d_14)
+Date	Mae	-	-
+:	Mae	-	-
+Mon	Mae	-	-
+,	Mae	-	-
+30	Mae	-	-
+Jul	Mae	-	-
+2001	Mae	-	-
+16:21:55	Mae	-	-
+-0700	Mae	-	-
+(	Mae	-	-
+PDT	Mae	-	-
+)	Mae	-	-
+
+From	Mae	-	-
+:	Mae	-	-
+mfoster@grti.tec.ar.us	Mae	(P0*)	(0)
+
+To	Mae	-	-
+:	Mae	-	-
+dana.davis@enron.com	Mae	(P1*)	(1)
+
+Subject	Mae	-	-
+:	Mae	-	-
+RE	Mae	-	-
+:	Mae	-	-
+Hello	Mae	-	-
+
+X	Mae	-	-
+-	Mae	-	-
+From	Mae	-	-
+:	Mae	-	-
+mfoster@grti.tec.ar.us	Mae	(P0)	(0)
+
+X	Mae	-	-
+-	Mae	-	-
+To	Mae	-	-
+:	Mae	-	-
+Davis	Mae	(P1	(1
+,	Mae	-	-
+Dana	Mae	P1)	1)
+
+X	Mae	-	-
+-	Mae	-	-
+cc	Mae	-	-
+:	Mae	-	-
+
+X	Mae	-	-
+-	Mae	-	-
+bcc	Mae	-	-
+:	Mae	-	-
+
+No	Mae	-	-
+Robert	Mae	(P2*)	(2)
+did	Mae	-	-
+not	Mae	-	-
+leave	Mae	-	-
+me	Mae	(P0)	(0)
+any	Mae	-	-
+cd	Mae	-	-
+'s	Mae	-	-
+
+did	Mae	-	-
+you	Mae	(P1)	(1)
+tell	Mae	-	-
+him	Mae	(P2)	(2)
+to	Mae	-	-
+?	Mae	-	-
+
+Subject	Dana	-	-
+:	Dana	-	-
+RE	Dana	-	-
+:	Dana	-	-
+Hello	Dana	-	-
+
+Date	Dana	-	-
+:	Dana	-	-
+Mon	Dana	-	-
+,	Dana	-	-
+30	Dana	-	-
+Jul	Dana	-	-
+2001	Dana	-	-
+11:03:38	Dana	-	-
+-0500	Dana	-	-
+
+From	Dana	-	-
+:	Dana	-	-
+"	Dana	-	-
+Davis	Dana	(P1	(1
+,	Dana	-	-
+Dana	Dana	P1)	1)
+"	Dana	-	-
+<	Dana	-	-
+Dana	Dana	(P1	(1
+.	Dana	-	-
+Davis@ENRON.com	Dana	P1)	1)
+>	Dana	-	-
+
+To	Dana	-	-
+:	Dana	-	-
+<	Dana	-	-
+mfoster@grti.tec.ar.us	Dana	(P0)	(0)
+>	Dana	-	-
+
+I	Dana	(P1)	(1)
+'	Dana	-	-
+m	Dana	-	-
+at	Dana	-	-
+work	Dana	-	-
+.	Dana	-	-
+
+Yes	Dana	-	-
+,	Dana	-	-
+that	Dana	-	-
+cayenne	Dana	-	-
+pepper	Dana	-	-
+is	Dana	-	-
+hot	Dana	-	-
+.	Dana	-	-
+
+Just	Dana	-	-
+do	Dana	-	-
+n't	Dana	-	-
+use	Dana	-	-
+that	Dana	-	-
+then	Dana	-	-
+.	Dana	-	-
+
+Did	Dana	-	-
+Uncle	Dana	(P2	(2
+Robert	Dana	P2)	2)
+leave	Dana	-	-
+any	Dana	-	-
+of	Dana	-	-
+those	Dana	-	-
+cd	Dana	-	-
+'s	Dana	-	-
+with	Dana	-	-
+you	Dana	(P0)	(0)
+?	Dana	-	-
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Mae	-	-
+:	Mae	-	-
+mfoster@grti.tec.ar.us	Mae	(P0)	(0)
+[	Mae	-	-
+mfoster@grti.tec.ar.us	Mae	(P0)	(0)
+]	Mae	-	-
+
+Sent	Mae	-	-
+:	Mae	-	-
+Wednesday	Mae	-	-
+,	Mae	-	-
+August	Mae	-	-
+01	Mae	-	-
+,	Mae	-	-
+2001	Mae	-	-
+5:46	Mae	-	-
+PM	Mae	-	-
+
+To	Mae	-	-
+:	Mae	-	-
+Davis	Mae	(P1	(1
+,	Mae	-	-
+Dana	Mae	P1)	1)
+
+Subject	Mae	-	-
+:	Mae	-	-
+Re	Mae	-	-
+:	Mae	-	-
+Hello	Mae	-	-
+
+hi	Mae	-	-
+girl	Mae	(P1)	(1)
+are	Mae	-	-
+you	Mae	(P1)	(1)
+at	Mae	-	-
+work	Mae	-	-
+or	Mae	-	-
+home	Mae	-	-
+?	Mae	-	-
+
+I	Mae	(P0)	(0)
+know	Mae	-	-
+i	Mae	(P0)	(0)
+will	Mae	-	-
+be	Mae	-	-
+the	Mae	(P0	(0
+one	Mae	P0)	0)
+to	Mae	-	-
+cook	Mae	-	-
+the	Mae	-	-
+shrimps	Mae	-	-
+because	Mae	-	-
+Melvin	Mae	(P3*)	(3)
+ca	Mae	-	-
+n't	Mae	-	-
+cook	Mae	-	-
+.	Mae	-	-
+
+and	Mae	-	-
+he	Mae	(P3)	(3)
+was	Mae	-	-
+trying	Mae	-	-
+to	Mae	-	-
+tell	Mae	-	-
+me	Mae	(P0)	(0)
+how	Mae	-	-
+to	Mae	-	-
+cook	Mae	-	-
+them	Mae	-	-
+the	Mae	-	-
+pepper	Mae	-	-
+you	Mae	(P1)	(1)
+name	Mae	-	-
+first	Mae	-	-
+is	Mae	-	-
+that	Mae	-	-
+hot	Mae	-	-
+because	Mae	-	-
+i	Mae	(P0)	(0)
+ca	Mae	-	-
+n't	Mae	-	-
+eat	Mae	-	-
+any	Mae	-	-
+hot	Mae	-	-
+stuff	Mae	-	-
+.	Mae	-	-
+
+love	Mae	-	-
+Mae	Mae	(P0)	(0)
+
+Subject	Dana	-	-
+:	Dana	-	-
+Hello	Dana	-	-
+
+Date	Dana	-	-
+:	Dana	-	-
+Mon	Dana	-	-
+,	Dana	-	-
+30	Dana	-	-
+Jul	Dana	-	-
+2001	Dana	-	-
+10:40:17	Dana	-	-
+-0500	Dana	-	-
+
+From	Dana	-	-
+:	Dana	-	-
+"	Dana	-	-
+Davis	Dana	(P1	(1
+,	Dana	-	-
+Dana	Dana	P1)	1)
+"	Dana	-	-
+<	Dana	-	-
+Dana	Dana	(P1	(1
+.	Dana	-	-
+Davis@ENRON.com	Dana	P1)	1)
+>	Dana	-	-
+
+To	Dana	-	-
+:	Dana	-	-
+<	Dana	-	-
+mfoster@grti.tec.ar.us	Dana	(P0)	(0)
+>	Dana	-	-
+
+Good	Dana	-	-
+Morning	Dana	-	-
+Aunt	Dana	(P0	(0
+Mae	Dana	P0)	0)
+-	Dana	-	-
+
+I	Dana	(P1)	(1)
+got	Dana	-	-
+your	Dana	(P0)	(0)
+email	Dana	-	-
+.	Dana	-	-
+
+It	Dana	-	-
+was	Dana	-	-
+a	Dana	-	-
+wonderful	Dana	-	-
+surprise	Dana	-	-
+to	Dana	-	-
+see	Dana	-	-
+.	Dana	-	-
+
+Now	Dana	-	-
+about	Dana	-	-
+the	Dana	-	-
+shrimp	Dana	-	-
+,	Dana	-	-
+all	Dana	-	-
+you	Dana	(P0)	(0)
+have	Dana	-	-
+to	Dana	-	-
+do	Dana	-	-
+is	Dana	-	-
+this	Dana	-	-
+....	Dana	-	-
+
+Since	Dana	-	-
+we	Dana	-	-
+were	Dana	-	-
+only	Dana	-	-
+able	Dana	-	-
+to	Dana	-	-
+send	Dana	-	-
+a	Dana	-	-
+few	Dana	-	-
+shrimp	Dana	-	-
+,	Dana	-	-
+all	Dana	-	-
+you	Dana	(P0)	(0)
+need	Dana	-	-
+to	Dana	-	-
+do	Dana	-	-
+is	Dana	-	-
+mix	Dana	-	-
+1	Dana	-	-
+cup	Dana	-	-
+of	Dana	-	-
+buttermilk	Dana	-	-
+&	Dana	-	-
+1	Dana	-	-
+egg	Dana	-	-
+(	Dana	-	-
+this	Dana	-	-
+is	Dana	-	-
+the	Dana	-	-
+batter	Dana	-	-
+)	Dana	-	-
+
+Then	Dana	-	-
+take	Dana	-	-
+1	Dana	-	-
+cup	Dana	-	-
+of	Dana	-	-
+flour	Dana	-	-
+and	Dana	-	-
+season	Dana	-	-
+to	Dana	-	-
+taste	Dana	-	-
+with	Dana	-	-
+cayenne	Dana	-	-
+pepper	Dana	-	-
+,	Dana	-	-
+black	Dana	-	-
+pepper	Dana	-	-
+&	Dana	-	-
+garlic	Dana	-	-
+salt	Dana	-	-
+.	Dana	-	-
+
+If	Dana	-	-
+you	Dana	(P0)	(0)
+are	Dana	-	-
+n't	Dana	-	-
+comfortable	Dana	-	-
+with	Dana	-	-
+your	Dana	(P0)	(0)
+seasoned	Dana	-	-
+flour	Dana	-	-
+mixture	Dana	-	-
+just	Dana	-	-
+season	Dana	-	-
+the	Dana	-	-
+shrimp	Dana	-	-
+a	Dana	-	-
+little	Dana	-	-
+before	Dana	-	-
+dipping	Dana	-	-
+them	Dana	-	-
+into	Dana	-	-
+the	Dana	-	-
+batter	Dana	-	-
+and	Dana	-	-
+flour	Dana	-	-
+.	Dana	-	-
+
+You	Dana	(P0)	(0)
+can	Dana	-	-
+tell	Dana	-	-
+when	Dana	-	-
+they	Dana	-	-
+are	Dana	-	-
+done	Dana	-	-
+cause	Dana	-	-
+the	Dana	-	-
+will	Dana	-	-
+be	Dana	-	-
+a	Dana	-	-
+nice	Dana	-	-
+golden	Dana	-	-
+brown	Dana	-	-
+(	Dana	-	-
+ugh	Dana	-	-
+,	Dana	-	-
+make	Dana	-	-
+my	Dana	(P1	(1
+mouth	Dana	P1)	1)
+water	Dana	-	-
+)	Dana	-	-
+:	Dana	-	-
+)	Dana	-	-
+
+We	Dana	-	-
+had	Dana	-	-
+such	Dana	-	-
+a	Dana	-	-
+good	Dana	-	-
+time	Dana	-	-
+;	Dana	-	-
+you	Dana	(P0)	(0)
+just	Dana	-	-
+have	Dana	-	-
+to	Dana	-	-
+come	Dana	-	-
+next	Dana	-	-
+time	Dana	-	-
+.	Dana	-	-
+
+Kevin	Dana	(P4*)	(4)
+said	Dana	-	-
+when	Dana	-	-
+he	Dana	(P4)	(4)
+comes	Dana	-	-
+in	Dana	-	-
+Nov.	Dana	-	-
+(	Dana	-	-
+hopefully	Dana	-	-
+I	Dana	(P1)	(1)
+will	Dana	-	-
+be	Dana	-	-
+able	Dana	-	-
+to	Dana	-	-
+come	Dana	-	-
+too	Dana	-	-
+)	Dana	-	-
+he	Dana	(P4)	(4)
+is	Dana	-	-
+going	Dana	-	-
+to	Dana	-	-
+bring	Dana	-	-
+some	Dana	-	-
+shrimp	Dana	-	-
+with	Dana	-	-
+him	Dana	(P4)	(4)
+.	Dana	-	-
+
+Just	Dana	-	-
+giving	Dana	-	-
+you	Dana	(P0)	(0)
+something	Dana	-	-
+to	Dana	-	-
+look	Dana	-	-
+forward	Dana	-	-
+to	Dana	-	-
+.	Dana	-	-
+
+Anyway	Dana	-	-
+I	Dana	(P1)	(1)
+be	Dana	-	-
+emailing	Dana	-	-
+you	Dana	(P0)	(0)
+.	Dana	-	-
+
+Love	Dana	-	-
+ya	Dana	(P0)	(0)
+.	Dana	-	-
+
+Dana	Dana	(P1)	(1)
+
+#end document

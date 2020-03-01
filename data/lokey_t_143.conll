@@ -1,0 +1,790 @@
+#begin document (lokey_t_143)
+Date	Toby	-	-
+:	Toby	-	-
+Mon	Toby	-	-
+,	Toby	-	-
+8	Toby	-	-
+Oct	Toby	-	-
+2001	Toby	-	-
+14:24:41	Toby	-	-
+-0700	Toby	-	-
+(	Toby	-	-
+PDT	Toby	-	-
+)	Toby	-	-
+
+From	Toby	-	-
+:	Toby	-	-
+toby.kuehl@enron.com	Toby	(P0*)	(0)
+
+To	Toby	-	-
+:	Toby	-	-
+kay.miller@enron.com	Toby	(P1*)	(1)
+,	Toby	-	-
+ramona.betancourt@enron.com	Toby	(P2*)	(2)
+,	Toby	-	-
+shelley.corman@enron.com	Toby	(P3*)	(3)
+,	Toby	-	-
+bradley.holmes@enron.com	Toby	(P4*)	(4)
+,	Toby	-	-
+rita.bianchi@enron.com	Toby	(P5*)	(5)
+,	Toby	-	-
+lindy.donoho@enron.com	Toby	(P6*)	(6)
+,	Toby	-	-
+glen.hass@enron.com	Toby	(P7*)	(7)
+,	Toby	-	-
+teb.lokey@enron.com	Toby	(P8*)	(8)
+,	Toby	-	-
+richard.hanagriff@enron.com	Toby	(P9*)	(9)
+,	Toby	-	-
+bradley.holmes@enron.com	Toby	(P4)	(4)
+,	Toby	-	-
+rick.dietz@enron.com	Toby	(P11*)	(11)
+,	Toby	-	-
+lynn.blair@enron.com	Toby	(P12*)	(12)
+,	Toby	-	-
+toby.kuehl@enron.com	Toby	(P0)	(0)
+
+Subject	Toby	-	-
+:	Toby	-	-
+RE	Toby	-	-
+:	Toby	-	-
+TW	Toby	(O0*)	(13)
+Trading	Toby	-	-
+Imbalances	Toby	-	-
+
+Cc	Toby	-	-
+:	Toby	-	-
+patty.hermanek@enron.com	Toby	(P13*)	(14)
+
+Bcc	Toby	-	-
+:	Toby	-	-
+patty.hermanek@enron.com	Toby	(P13)	(14)
+
+X	Toby	-	-
+-	Toby	-	-
+From	Toby	-	-
+:	Toby	-	-
+Kuehl	Toby	(P0	(0
+,	Toby	-	-
+Toby	Toby	P0)	0)
+
+X	Toby	-	-
+-	Toby	-	-
+To	Toby	-	-
+:	Toby	-	-
+Miller	Toby	(P1	(1
+,	Toby	-	-
+Mary	Toby	-	-
+Kay	Toby	P1)	1)
+,	Toby	-	-
+Betancourt	Toby	(P2	(2
+,	Toby	-	-
+Ramona	Toby	P2)	2)
+,	Toby	-	-
+Corman	Toby	(P3	(3
+,	Toby	-	-
+Shelley	Toby	P3)	3)
+,	Toby	-	-
+Holmes	Toby	(P4	(4
+,	Toby	-	-
+Bradley	Toby	P4)	4)
+,	Toby	-	-
+Bianchi	Toby	(P5	(5
+,	Toby	-	-
+Rita	Toby	P5)	5)
+,	Toby	-	-
+Donoho	Toby	(P6	(6
+,	Toby	-	-
+Lindy	Toby	P6)	6)
+,	Toby	-	-
+Hass	Toby	(P7	(7
+,	Toby	-	-
+Glen	Toby	P7)	7)
+,	Toby	-	-
+Lokey	Toby	(P8	(8
+,	Toby	-	-
+Teb	Toby	P8)	8)
+,	Toby	-	-
+Hanagriff	Toby	(P9	(9
+,	Toby	-	-
+Richard	Toby	P9)	9)
+,	Toby	-	-
+Holmes	Toby	(P4	(4
+,	Toby	-	-
+Bradley	Toby	P4)	4)
+,	Toby	-	-
+Dietz	Toby	(P11	(11
+,	Toby	-	-
+Rick	Toby	P11)	11)
+,	Toby	-	-
+Blair	Toby	(P12	(12
+,	Toby	-	-
+Lynn	Toby	P12)	12)
+,	Toby	-	-
+Kuehl	Toby	(P0	(0
+,	Toby	-	-
+Toby	Toby	P0)	0)
+
+X	Toby	-	-
+-	Toby	-	-
+cc	Toby	-	-
+:	Toby	-	-
+Hermanek	Toby	(P13	(14
+,	Toby	-	-
+Patty	Toby	P13)	14)
+
+X	Toby	-	-
+-	Toby	-	-
+bcc	Toby	-	-
+:	Toby	-	-
+
+Mary	Toby	(P1	(1
+Kay	Toby	P1)	1)
+,	Toby	-	-
+
+Where	Toby	-	-
+do	Toby	-	-
+we	Toby	(P14*)	(15)
+stand	Toby	-	-
+on	Toby	-	-
+the	Toby	(D0	(16
+TW	Toby	(O0)	(13)
+Imbalance	Toby	-	-
+Netting	Toby	-	-
+&	Toby	-	-
+Trading	Toby	-	-
+posting	Toby	D0)	16)
+?	Toby	-	-
+
+Still	Toby	-	-
+on	Toby	-	-
+hold	Toby	-	-
+?	Toby	-	-
+
+Please	Toby	-	-
+advise	Toby	-	-
+.	Toby	-	-
+
+Thanks	Toby	-	-
+,	Toby	-	-
+
+Toby	Toby	(P0)	(0)
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Mary	-	-
+:	Mary	-	-
+Miller	Mary	(P1	(1
+,	Mary	-	-
+Mary	Mary	-	-
+Kay	Mary	P1)	1)
+
+Sent	Mary	-	-
+:	Mary	-	-
+Thursday	Mary	-	-
+,	Mary	-	-
+September	Mary	-	-
+13	Mary	-	-
+,	Mary	-	-
+2001	Mary	-	-
+10:28	Mary	-	-
+AM	Mary	-	-
+
+To	Mary	-	-
+:	Mary	-	-
+Kuehl	Mary	(P0	(0
+,	Mary	-	-
+Toby	Mary	P0)	0)
+;	Mary	-	-
+Betancourt	Mary	(P2	(2
+,	Mary	-	-
+Ramona	Mary	P2)	2)
+;	Mary	-	-
+Corman	Mary	(P3	(3
+,	Mary	-	-
+Shelley	Mary	P3)	3)
+;	Mary	-	-
+Holmes	Mary	(P4	(4
+,	Mary	-	-
+Bradley	Mary	P4)	4)
+;	Mary	-	-
+Bianchi	Mary	(P5	(5
+,	Mary	-	-
+Rita	Mary	P5)	5)
+;	Mary	-	-
+Donoho	Mary	(P6	(6
+,	Mary	-	-
+Lindy	Mary	P6)	6)
+;	Mary	-	-
+Hass	Mary	(P7	(7
+,	Mary	-	-
+Glen	Mary	P7)	7)
+;	Mary	-	-
+Lokey	Mary	(P8	(8
+,	Mary	-	-
+Teb	Mary	P8)	8)
+;	Mary	-	-
+Hanagriff	Mary	(P9	(9
+,	Mary	-	-
+Richard	Mary	P9)	9)
+;	Mary	-	-
+Holmes	Mary	(P4	(4
+,	Mary	-	-
+Bradley	Mary	P4)	4)
+;	Mary	-	-
+Dietz	Mary	(P11	(11
+,	Mary	-	-
+Rick	Mary	P11)	11)
+;	Mary	-	-
+Hermanek	Mary	(P13	(14
+,	Mary	-	-
+Patty	Mary	P13)	14)
+;	Mary	-	-
+Blair	Mary	(P12	(12
+,	Mary	-	-
+Lynn	Mary	P12)	12)
+
+Subject	Mary	-	-
+:	Mary	-	-
+RE	Mary	-	-
+:	Mary	-	-
+TW	Mary	(D1 | (O0)	(17|(13)
+Trading	Mary	-	-
+Imbalances	Mary	-	-
+Draft	Mary	D1)	17)
+
+We	Mary	(P14)	(15)
+are	Mary	-	-
+discussing	Mary	-	-
+this	Mary	(D0	(16
+posting	Mary	D0)	16)
+on	Mary	-	-
+not	Mary	-	-
+including	Mary	-	-
+shipper	Mary	-	-
+data	Mary	-	-
+and	Mary	-	-
+will	Mary	-	-
+be	Mary	-	-
+back	Mary	-	-
+in	Mary	-	-
+touch	Mary	-	-
+.	Mary	-	-
+
+Glen	Mary	(P7)	(7)
+is	Mary	-	-
+cooridnating	Mary	-	-
+the	Mary	-	-
+discussions	Mary	-	-
+as	Mary	-	-
+they	Mary	-	-
+reflect	Mary	-	-
+information	Mary	-	-
+from	Mary	-	-
+prior	Mary	-	-
+meetings	Mary	-	-
+.	Mary	-	-
+
+At	Mary	-	-
+this	Mary	-	-
+time	Mary	-	-
+,	Mary	-	-
+we	Mary	(P14)	(15)
+do	Mary	-	-
+n't	Mary	-	-
+want	Mary	-	-
+to	Mary	-	-
+update	Mary	-	-
+any	Mary	-	-
+posting	Mary	-	-
+.	Mary	-	-
+
+We	Mary	(P14)	(15)
+'ll	Mary	-	-
+be	Mary	-	-
+back	Mary	-	-
+in	Mary	-	-
+touch	Mary	-	-
+.	Mary	-	-
+
+MK	Mary	(P1)	(1)
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Toby	-	-
+:	Toby	-	-
+Kuehl	Toby	(P0	(0
+,	Toby	-	-
+Toby	Toby	P0)	0)
+
+Sent	Toby	-	-
+:	Toby	-	-
+Thursday	Toby	-	-
+,	Toby	-	-
+September	Toby	-	-
+13	Toby	-	-
+,	Toby	-	-
+2001	Toby	-	-
+10:23	Toby	-	-
+AM	Toby	-	-
+
+To	Toby	-	-
+:	Toby	-	-
+Betancourt	Toby	(P2	(2
+,	Toby	-	-
+Ramona	Toby	P2)	2)
+;	Toby	-	-
+Corman	Toby	(P3	(3
+,	Toby	-	-
+Shelley	Toby	P3)	3)
+;	Toby	-	-
+Holmes	Toby	(P4	(4
+,	Toby	-	-
+Bradley	Toby	P4)	4)
+;	Toby	-	-
+Bianchi	Toby	(P5	(5
+,	Toby	-	-
+Rita	Toby	P5)	5)
+;	Toby	-	-
+Donoho	Toby	(P6	(6
+,	Toby	-	-
+Lindy	Toby	P6)	6)
+;	Toby	-	-
+Hass	Toby	(P7	(7
+,	Toby	-	-
+Glen	Toby	P7)	7)
+;	Toby	-	-
+Lokey	Toby	(P8	(8
+,	Toby	-	-
+Teb	Toby	P8)	8)
+;	Toby	-	-
+Hanagriff	Toby	(P9	(9
+,	Toby	-	-
+Richard	Toby	P9)	9)
+;	Toby	-	-
+Holmes	Toby	(P4	(4
+,	Toby	-	-
+Bradley	Toby	P4)	4)
+;	Toby	-	-
+Dietz	Toby	(P11	(11
+,	Toby	-	-
+Rick	Toby	P11)	11)
+;	Toby	-	-
+Hermanek	Toby	(P13	(14
+,	Toby	-	-
+Patty	Toby	P13)	14)
+;	Toby	-	-
+Miller	Toby	(P1	(1
+,	Toby	-	-
+Mary	Toby	-	-
+Kay	Toby	P1)	1)
+;	Toby	-	-
+Blair	Toby	(P12	(12
+,	Toby	-	-
+Lynn	Toby	P12)	12)
+
+Subject	Toby	-	-
+:	Toby	-	-
+RE	Toby	-	-
+:	Toby	-	-
+TW	Toby	(D1 | (O0)	(17|(13)
+Trading	Toby	-	-
+Imbalances	Toby	-	-
+Draft	Toby	D1)	17)
+
+The	Toby	(D0	(16
+posting	Toby	D0)	16)
+is	Toby	-	-
+ready	Toby	-	-
+if	Toby	-	-
+and	Toby	-	-
+when	Toby	-	-
+we	Toby	(P14)	(15)
+decide	Toby	-	-
+to	Toby	-	-
+post	Toby	-	-
+.	Toby	-	-
+
+Please	Toby	-	-
+see	Toby	-	-
+http://twdev.ets.enron.com/twdb/etfr_baldocs.html	Toby	(D0*)	(16)
+
+Thx	Toby	-	-
+,	Toby	-	-
+
+Toby	Toby	(P0)	(0)
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Ramona	-	-
+:	Ramona	-	-
+Betancourt	Ramona	(P2	(2
+,	Ramona	-	-
+Ramona	Ramona	P2)	2)
+
+Sent	Ramona	-	-
+:	Ramona	-	-
+Thursday	Ramona	-	-
+,	Ramona	-	-
+September	Ramona	-	-
+13	Ramona	-	-
+,	Ramona	-	-
+2001	Ramona	-	-
+10:12	Ramona	-	-
+AM	Ramona	-	-
+
+To	Ramona	-	-
+:	Ramona	-	-
+Kuehl	Ramona	(P0	(0
+,	Ramona	-	-
+Toby	Ramona	P0)	0)
+
+Subject	Ramona	-	-
+:	Ramona	-	-
+FW	Ramona	-	-
+:	Ramona	-	-
+TW	Ramona	(D1 | (O0)	(17|(13)
+Trading	Ramona	-	-
+Imbalances	Ramona	-	-
+Draft	Ramona	D1)	17)
+
+Toby	Ramona	(P0)	(0)
+,	Ramona	-	-
+
+FYI	Ramona	-	-
+
+Ramona	Ramona	(P2)	(2)
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Lynn	-	-
+:	Lynn	-	-
+Blair	Lynn	(P12	(12
+,	Lynn	-	-
+Lynn	Lynn	P12)	12)
+
+Sent	Lynn	-	-
+:	Lynn	-	-
+Wednesday	Lynn	-	-
+,	Lynn	-	-
+September	Lynn	-	-
+12	Lynn	-	-
+,	Lynn	-	-
+2001	Lynn	-	-
+5:58	Lynn	-	-
+PM	Lynn	-	-
+
+To	Lynn	-	-
+:	Lynn	-	-
+Betancourt	Lynn	(P2	(2
+,	Lynn	-	-
+Ramona	Lynn	P2)	2)
+;	Lynn	-	-
+Kowalke	Lynn	(P15*	(18
+,	Lynn	-	-
+Terry	Lynn	P15*)	18)
+
+Cc	Lynn	-	-
+:	Lynn	-	-
+Watson	Lynn	(P16*	(19
+,	Lynn	-	-
+Kimberly	Lynn	P16*)	19)
+;	Lynn	-	-
+Blair	Lynn	(P12	(12
+,	Lynn	-	-
+Lynn	Lynn	P12)	12)
+;	Lynn	-	-
+Donoho	Lynn	(P6	(6
+,	Lynn	-	-
+Lindy	Lynn	P6)	6)
+
+Subject	Lynn	-	-
+:	Lynn	-	-
+FW	Lynn	-	-
+:	Lynn	-	-
+TW	Lynn	(D1 | (O0)	(17|(13)
+Trading	Lynn	-	-
+Imbalances	Lynn	-	-
+Draft	Lynn	D1)	17)
+
+Wanted	Lynn	-	-
+to	Lynn	-	-
+be	Lynn	-	-
+sure	Lynn	-	-
+you	Lynn	(P2) | (P15)	(2)|(18)
+were	Lynn	-	-
+both	Lynn	(P2) | (P15)	(2)|(18)
+in	Lynn	-	-
+the	Lynn	-	-
+loop	Lynn	-	-
+that	Lynn	-	-
+we	Lynn	(P14)	(15)
+are	Lynn	-	-
+NOT	Lynn	-	-
+posting	Lynn	-	-
+Shipper	Lynn	-	-
+imbalances	Lynn	-	-
+to	Lynn	-	-
+the	Lynn	-	-
+Web	Lynn	-	-
+,	Lynn	-	-
+only	Lynn	-	-
+OBA	Lynn	-	-
+Dollar	Lynn	-	-
+Valued	Lynn	-	-
+agreements	Lynn	-	-
+.	Lynn	-	-
+
+If	Lynn	-	-
+you	Lynn	(P2) | (P15)	(2)|(18)
+have	Lynn	-	-
+any	Lynn	-	-
+questions	Lynn	-	-
+,	Lynn	-	-
+please	Lynn	-	-
+let	Lynn	-	-
+me	Lynn	(P12)	(12)
+know	Lynn	-	-
+.	Lynn	-	-
+
+This	Lynn	-	-
+was	Lynn	-	-
+decided	Lynn	-	-
+after	Lynn	-	-
+a	Lynn	-	-
+meeting	Lynn	-	-
+this	Lynn	-	-
+morning	Lynn	-	-
+with	Lynn	-	-
+Shelley	Lynn	(P3)	(3)
+and	Lynn	-	-
+Teb	Lynn	(P8)	(8)
+to	Lynn	-	-
+review	Lynn	-	-
+TW	Lynn	(O0)	(13)
+tariff	Lynn	-	-
+and	Lynn	-	-
+compliance	Lynn	-	-
+.	Lynn	-	-
+
+Thanks	Lynn	-	-
+.	Lynn	-	-
+
+Lynn	Lynn	(P12)	(12)
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Rick	-	-
+:	Rick	-	-
+Dietz	Rick	(P11	(11
+,	Rick	-	-
+Rick	Rick	P11)	11)
+
+Sent	Rick	-	-
+:	Rick	-	-
+Monday	Rick	-	-
+,	Rick	-	-
+September	Rick	-	-
+10	Rick	-	-
+,	Rick	-	-
+2001	Rick	-	-
+5:29	Rick	-	-
+PM	Rick	-	-
+
+To	Rick	-	-
+:	Rick	-	-
+Corman	Rick	(P3	(3
+,	Rick	-	-
+Shelley	Rick	P3)	3)
+;	Rick	-	-
+Blair	Rick	(P12	(12
+,	Rick	-	-
+Lynn	Rick	P12)	12)
+
+Subject	Rick	-	-
+:	Rick	-	-
+FW	Rick	-	-
+:	Rick	-	-
+TW	Rick	(D1 | (O0)	(17|(13)
+Trading	Rick	-	-
+Imbalances	Rick	-	-
+Draft	Rick	D1)	17)
+
+FYI	Rick	-	-
+-	Rick	-	-
+TW	Rick	(O0)	(13)
+Imbalances	Rick	-	-
+...	Rick	-	-
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Ramona	-	-
+:	Ramona	-	-
+Betancourt	Ramona	(P2	(2
+,	Ramona	-	-
+Ramona	Ramona	P2)	2)
+
+Sent	Ramona	-	-
+:	Ramona	-	-
+Monday	Ramona	-	-
+,	Ramona	-	-
+September	Ramona	-	-
+10	Ramona	-	-
+,	Ramona	-	-
+2001	Ramona	-	-
+4:16	Ramona	-	-
+PM	Ramona	-	-
+
+To	Ramona	-	-
+:	Ramona	-	-
+Lokey	Ramona	(P8	(8
+,	Ramona	-	-
+Teb	Ramona	P8)	8)
+;	Ramona	-	-
+Hass	Ramona	(P7	(7
+,	Ramona	-	-
+Glen	Ramona	P7)	7)
+;	Ramona	-	-
+Donoho	Ramona	(P6	(6
+,	Ramona	-	-
+Lindy	Ramona	P6)	6)
+;	Ramona	-	-
+Hanagriff	Ramona	(P9	(9
+,	Ramona	-	-
+Richard	Ramona	P9)	9)
+;	Ramona	-	-
+Holmes	Ramona	(P4	(4
+,	Ramona	-	-
+Bradley	Ramona	P4)	4)
+;	Ramona	-	-
+Dietz	Ramona	(P11	(11
+,	Ramona	-	-
+Rick	Ramona	P11)	11)
+;	Ramona	-	-
+Hermanek	Ramona	(P13	(14
+,	Ramona	-	-
+Patty	Ramona	P13)	14)
+;	Ramona	-	-
+Kuehl	Ramona	(P0	(0
+,	Ramona	-	-
+Toby	Ramona	P0)	0)
+;	Ramona	-	-
+Bianchi	Ramona	(P5	(5
+,	Ramona	-	-
+Rita	Ramona	P5)	5)
+
+Subject	Ramona	-	-
+:	Ramona	-	-
+TW	Ramona	(D1 | (O0)	(17|(13)
+Trading	Ramona	-	-
+Imbalances	Ramona	-	-
+Draft	Ramona	D1)	17)
+
+Please	Ramona	-	-
+review	Ramona	-	-
+the	Ramona	(D1	(17
+attached	Ramona	-	-
+draft	Ramona	D1)	17)
+on	Ramona	-	-
+the	Ramona	(D1	(17
+TW	Ramona	(O0)	(13)
+posting	Ramona	-	-
+for	Ramona	-	-
+trading	Ramona	-	-
+imbalances	Ramona	D1)	17)
+.	Ramona	-	-
+
+The	Ramona	-	-
+data	Ramona	-	-
+is	Ramona	-	-
+not	Ramona	-	-
+real	Ramona	-	-
+imbalance	Ramona	-	-
+data	Ramona	-	-
+.	Ramona	-	-
+
+I	Ramona	(P2)	(2)
+wanted	Ramona	-	-
+to	Ramona	-	-
+get	Ramona	-	-
+a	Ramona	-	-
+draft	Ramona	-	-
+out	Ramona	-	-
+since	Ramona	-	-
+Glen	Ramona	(P7)	(7)
+would	Ramona	-	-
+be	Ramona	-	-
+out	Ramona	-	-
+of	Ramona	-	-
+the	Ramona	-	-
+office	Ramona	-	-
+until	Ramona	-	-
+Thursday	Ramona	-	-
+.	Ramona	-	-
+
+Please	Ramona	-	-
+make	Ramona	-	-
+any	Ramona	-	-
+changes	Ramona	-	-
+to	Ramona	-	-
+the	Ramona	(D1	(17
+document	Ramona	D1)	17)
+&	Ramona	-	-
+return	Ramona	-	-
+to	Ramona	-	-
+me	Ramona	(P2)	(2)
+by	Ramona	-	-
+COB	Ramona	-	-
+Wednesday	Ramona	-	-
+,	Ramona	-	-
+9/12/01	Ramona	-	-
+.	Ramona	-	-
+
+I	Ramona	(P2)	(2)
+will	Ramona	-	-
+then	Ramona	-	-
+send	Ramona	-	-
+a	Ramona	-	-
+revised	Ramona	-	-
+final	Ramona	-	-
+draft	Ramona	-	-
+out	Ramona	-	-
+on	Ramona	-	-
+Thursday	Ramona	-	-
+and	Ramona	-	-
+Richard	Ramona	(P9)	(9)
+will	Ramona	-	-
+send	Ramona	-	-
+the	Ramona	-	-
+imblance	Ramona	-	-
+posting	Ramona	-	-
+document	Ramona	-	-
+to	Ramona	-	-
+Toby	Ramona	(P0)	(0)
+on	Ramona	-	-
+Friday	Ramona	-	-
+afternoon	Ramona	-	-
+for	Ramona	-	-
+posting	Ramona	-	-
+.	Ramona	-	-
+
+Thanks	Ramona	-	-
+Ramona	Ramona	(P2)	(2)
+
+<	Ramona	-	-
+<	Ramona	-	-
+File	Ramona	-	-
+:	Ramona	-	-
+TW	Ramona	(D1*	(17
+Imbalance	Ramona	-	-
+Netting	Ramona	-	-
+and	Ramona	-	-
+Trading	Ramona	-	-
+Balancesdraft.doc	Ramona	D1*)	17)
+#end document

@@ -1,0 +1,500 @@
+#begin document (lokay_m_31)
+Date	Ramona	-	-
+:	Ramona	-	-
+Thu	Ramona	-	-
+,	Ramona	-	-
+21	Ramona	-	-
+Mar	Ramona	-	-
+2002	Ramona	-	-
+09:24:38	Ramona	-	-
+-0800	Ramona	-	-
+(	Ramona	-	-
+PST	Ramona	-	-
+)	Ramona	-	-
+
+From	Ramona	-	-
+:	Ramona	-	-
+ramona.betancourt@enron.com	Ramona	(P0*)	(0)
+
+To	Ramona	-	-
+:	Ramona	-	-
+michelle.lokay@enron.com	Ramona	(P1*)	(1)
+,	Ramona	-	-
+perry.frazier@enron.com	Ramona	(P2*)	(2)
+
+Subject	Ramona	-	-
+:	Ramona	-	-
+FW	Ramona	-	-
+:	Ramona	-	-
+TW	Ramona	(O1*)	(3)
+CAS	Ramona	-	-
+Hands	Ramona	-	-
+-on	Ramona	-	-
+Training	Ramona	-	-
+
+X	Ramona	-	-
+-	Ramona	-	-
+From	Ramona	-	-
+:	Ramona	-	-
+Betancourt	Ramona	(P0	(0
+,	Ramona	-	-
+Ramona	Ramona	P0)	0)
+
+X	Ramona	-	-
+-	Ramona	-	-
+To	Ramona	-	-
+:	Ramona	-	-
+Lokay	Ramona	(P1	(1
+,	Ramona	-	-
+Michelle	Ramona	P1)	1)
+,	Ramona	-	-
+Frazier	Ramona	(P2	(2
+,	Ramona	-	-
+Perry	Ramona	P2)	2)
+
+X	Ramona	-	-
+-	Ramona	-	-
+cc	Ramona	-	-
+:	Ramona	-	-
+
+X	Ramona	-	-
+-	Ramona	-	-
+bcc	Ramona	-	-
+:	Ramona	-	-
+
+Perry	Ramona	(P2)	(2)
+,	Ramona	-	-
+
+Michelle	Ramona	(P1)	(1)
+will	Ramona	-	-
+meet	Ramona	-	-
+with	Ramona	-	-
+you	Ramona	(P2)	(2)
+on	Ramona	-	-
+Friday	Ramona	-	-
+morning	Ramona	-	-
+3/22/02	Ramona	-	-
+from	Ramona	-	-
+10:30	Ramona	-	-
+to	Ramona	-	-
+11:00	Ramona	-	-
+for	Ramona	-	-
+CAS	Ramona	-	-
+training	Ramona	-	-
+.	Ramona	-	-
+
+Michelle	Ramona	(P1)	(1)
+,	Ramona	-	-
+Perry	Ramona	(P2)	(2)
+'s	Ramona	-	-
+new	Ramona	-	-
+location	Ramona	-	-
+is	Ramona	-	-
+EB	Ramona	(L0*	(4
+3947	Ramona	L0*)	4)
+.	Ramona	-	-
+
+Thanks	Ramona	-	-
+Ramona	Ramona	(P0)	(0)
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Perry	-	-
+:	Perry	-	-
+Frazier	Perry	(P2	(2
+,	Perry	-	-
+Perry	Perry	P2)	2)
+
+Sent	Perry	-	-
+:	Perry	-	-
+Wednesday	Perry	-	-
+,	Perry	-	-
+March	Perry	-	-
+20	Perry	-	-
+,	Perry	-	-
+2002	Perry	-	-
+9:16	Perry	-	-
+AM	Perry	-	-
+
+To	Perry	-	-
+:	Perry	-	-
+Betancourt	Perry	(P0	(0
+,	Perry	-	-
+Ramona	Perry	P0)	0)
+
+Subject	Perry	-	-
+:	Perry	-	-
+RE	Perry	-	-
+:	Perry	-	-
+TW	Perry	(O1)	(3)
+CAS	Perry	-	-
+Hands	Perry	-	-
+-on	Perry	-	-
+Training	Perry	-	-
+
+How	Perry	-	-
+about	Perry	-	-
+3	Perry	-	-
+back	Perry	-	-
+to	Perry	-	-
+back	Perry	-	-
+30	Perry	-	-
+minute	Perry	-	-
+sessions	Perry	-	-
+on	Perry	-	-
+Thursday	Perry	-	-
+3/21/02	Perry	-	-
+during	Perry	-	-
+the	Perry	-	-
+afternoon	Perry	-	-
+and	Perry	-	-
+then	Perry	-	-
+the	Perry	-	-
+same	Perry	-	-
+on	Perry	-	-
+Friday	Perry	-	-
+morning	Perry	-	-
+3/22/02	Perry	-	-
+.	Perry	-	-
+
+I	Perry	(P2)	(2)
+will	Perry	-	-
+set	Perry	-	-
+up	Perry	-	-
+some	Perry	-	-
+test	Perry	-	-
+,	Perry	-	-
+"	Perry	-	-
+What	Perry	-	-
+if	Perry	-	-
+cases	Perry	-	-
+"	Perry	-	-
+.	Perry	-	-
+
+I	Perry	(P2)	(2)
+would	Perry	-	-
+recommend	Perry	-	-
+they	Perry	(P1) | (P3) | (P4) | (P5) | (P6) | (P7)	(1)|(5)|(6)|(7)|(8)|(9)
+come	Perry	-	-
+to	Perry	-	-
+my	Perry	(P2) | (L0	(2)|(4
+work	Perry	-	-
+station	Perry	-	-
+ECN	Perry	-	-
+3947	Perry	L0)	4)
+.	Perry	-	-
+
+Let	Perry	-	-
+me	Perry	(P2)	(2)
+know	Perry	-	-
+if	Perry	-	-
+this	Perry	-	-
+is	Perry	-	-
+okay	Perry	-	-
+with	Perry	-	-
+the	Perry	(P1 | (P3 | (P4 | (P5 | (P6 | (P7	(1|(5|(6|(7|(8|(9
+group	Perry	P1) | P3) | P4) | P5) | P6) | P7)	9)|8)|7)|6)|5)|1)
+.	Perry	-	-
+
+Thanks	Perry	-	-
+
+PT	Perry	(P2)	(2)
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Ramona	-	-
+:	Ramona	-	-
+Betancourt	Ramona	(P0	(0
+,	Ramona	-	-
+Ramona	Ramona	P0)	0)
+
+Sent	Ramona	-	-
+:	Ramona	-	-
+Tuesday	Ramona	-	-
+,	Ramona	-	-
+March	Ramona	-	-
+19	Ramona	-	-
+,	Ramona	-	-
+2002	Ramona	-	-
+4:01	Ramona	-	-
+PM	Ramona	-	-
+
+To	Ramona	-	-
+:	Ramona	-	-
+Frazier	Ramona	(P2	(2
+,	Ramona	-	-
+Perry	Ramona	P2)	2)
+
+Subject	Ramona	-	-
+:	Ramona	-	-
+FW	Ramona	-	-
+:	Ramona	-	-
+TW	Ramona	(O1)	(3)
+CAS	Ramona	-	-
+Hands	Ramona	-	-
+-on	Ramona	-	-
+Training	Ramona	-	-
+
+Perry	Ramona	(P2)	(2)
+,	Ramona	-	-
+
+FYI	Ramona	-	-
+,	Ramona	-	-
+
+Here	Ramona	-	-
+is	Ramona	-	-
+the	Ramona	-	-
+list	Ramona	-	-
+from	Ramona	-	-
+Michelle	Ramona	(P1)	(1)
+.	Ramona	-	-
+
+Let	Ramona	-	-
+me	Ramona	(P0)	(0)
+know	Ramona	-	-
+of	Ramona	-	-
+some	Ramona	-	-
+time	Ramona	-	-
+that	Ramona	-	-
+you	Ramona	(P2)	(2)
+can	Ramona	-	-
+block	Ramona	-	-
+out	Ramona	-	-
+&	Ramona	-	-
+I	Ramona	(P0)	(0)
+will	Ramona	-	-
+schedule	Ramona	-	-
+each	Ramona	-	-
+.	Ramona	-	-
+
+Thanks	Ramona	-	-
+Ramona	Ramona	(P0)	(0)
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Michelle	-	-
+:	Michelle	-	-
+Lokay	Michelle	(P1	(1
+,	Michelle	-	-
+Michelle	Michelle	P1)	1)
+
+Sent	Michelle	-	-
+:	Michelle	-	-
+Tuesday	Michelle	-	-
+,	Michelle	-	-
+March	Michelle	-	-
+19	Michelle	-	-
+,	Michelle	-	-
+2002	Michelle	-	-
+2:56	Michelle	-	-
+PM	Michelle	-	-
+
+To	Michelle	-	-
+:	Michelle	-	-
+Betancourt	Michelle	(P0	(0
+,	Michelle	-	-
+Ramona	Michelle	P0)	0)
+
+Subject	Michelle	-	-
+:	Michelle	-	-
+RE	Michelle	-	-
+:	Michelle	-	-
+TW	Michelle	(O1)	(3)
+CAS	Michelle	-	-
+Hands	Michelle	-	-
+-on	Michelle	-	-
+Training	Michelle	-	-
+
+30	Michelle	-	-
+minutes	Michelle	-	-
+...	Michelle	-	-
+is	Michelle	-	-
+that	Michelle	-	-
+all	Michelle	-	-
+we	Michelle	(O1)	(3)
+need	Michelle	-	-
+?	Michelle	-	-
+
+Let	Michelle	-	-
+'s	Michelle	-	-
+schedule	Michelle	-	-
+all	Michelle	-	-
+the	Michelle	(P1 | (P3 | (P4 | (P5 | (P6 | (P7	(1|(5|(6|(7|(8|(9
+marketers	Michelle	P7) | P6) | P5) | P4) | P3) | P1)	1)|5)|6)|7)|8)|9)
+:	Michelle	-	-
+me	Michelle	(P1)	(1)
+,	Michelle	-	-
+Lorraine	Michelle	(P3*)	(5)
+,	Michelle	-	-
+TK	Michelle	(P4*)	(6)
+,	Michelle	-	-
+Paul	Michelle	(P5*)	(7)
+,	Michelle	-	-
+Mark	Michelle	(P6*)	(8)
+,	Michelle	-	-
+and	Michelle	-	-
+Kim	Michelle	(P7*)	(9)
+.	Michelle	-	-
+
+Thanks	Michelle	-	-
+.	Michelle	-	-
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Ramona	-	-
+:	Ramona	-	-
+Betancourt	Ramona	(P0	(0
+,	Ramona	-	-
+Ramona	Ramona	P0)	0)
+
+Sent	Ramona	-	-
+:	Ramona	-	-
+Tuesday	Ramona	-	-
+,	Ramona	-	-
+March	Ramona	-	-
+19	Ramona	-	-
+,	Ramona	-	-
+2002	Ramona	-	-
+11:44	Ramona	-	-
+AM	Ramona	-	-
+
+To	Ramona	-	-
+:	Ramona	-	-
+Lokay	Ramona	(P1	(1
+,	Ramona	-	-
+Michelle	Ramona	P1)	1)
+;	Ramona	-	-
+Frazier	Ramona	(P2	(2
+,	Ramona	-	-
+Perry	Ramona	P2)	2)
+
+Cc	Ramona	-	-
+:	Ramona	-	-
+Holmes	Ramona	(P8*	(10
+,	Ramona	-	-
+Bradley	Ramona	P8*)	10)
+
+Subject	Ramona	-	-
+:	Ramona	-	-
+TW	Ramona	(O1)	(3)
+CAS	Ramona	-	-
+Hands	Ramona	-	-
+-on	Ramona	-	-
+Training	Ramona	-	-
+
+Michelle	Ramona	(P1)	(1)
+,	Ramona	-	-
+
+A	Ramona	-	-
+few	Ramona	-	-
+months	Ramona	-	-
+ago	Ramona	-	-
+,	Ramona	-	-
+TW	Ramona	(O0*	(11
+Marketing	Ramona	-	-
+and	Ramona	-	-
+Fac	Ramona	-	-
+.	Ramona	-	-
+Planning	Ramona	O0*)	11)
+had	Ramona	-	-
+a	Ramona	-	-
+meeting	Ramona	-	-
+to	Ramona	-	-
+discuss	Ramona	-	-
+TW	Ramona	(O1)	(3)
+CAS	Ramona	-	-
+system	Ramona	-	-
+issues	Ramona	-	-
+.	Ramona	-	-
+
+At	Ramona	-	-
+this	Ramona	-	-
+meeting	Ramona	-	-
+,	Ramona	-	-
+you	Ramona	(P1)	(1)
+indicated	Ramona	-	-
+that	Ramona	-	-
+the	Ramona	-	-
+TW	Ramona	(O1	(3
+Marketers	Ramona	O1)	3)
+would	Ramona	-	-
+like	Ramona	-	-
+to	Ramona	-	-
+have	Ramona	-	-
+some	Ramona	-	-
+training	Ramona	-	-
+on	Ramona	-	-
+CAS	Ramona	-	-
+.	Ramona	-	-
+
+I	Ramona	(P0)	(0)
+have	Ramona	-	-
+discussed	Ramona	-	-
+with	Ramona	-	-
+Perry	Ramona	(P2	(2
+Frazier	Ramona	P2)	2)
+&	Ramona	-	-
+he	Ramona	(P2)	(2)
+would	Ramona	-	-
+like	Ramona	-	-
+to	Ramona	-	-
+set	Ramona	-	-
+up	Ramona	-	-
+30	Ramona	-	-
+minute	Ramona	-	-
+one	Ramona	-	-
+on	Ramona	-	-
+one	Ramona	-	-
+hands	Ramona	-	-
+-	Ramona	-	-
+on	Ramona	-	-
+training	Ramona	-	-
+sessions	Ramona	-	-
+with	Ramona	-	-
+each	Ramona	-	-
+individual	Ramona	-	-
+.	Ramona	-	-
+
+Can	Ramona	-	-
+you	Ramona	(P1)	(1)
+coordinate	Ramona	-	-
+with	Ramona	-	-
+your	Ramona	(P1)|(P9*	(1)|(12
+team	Ramona	P9*)	12)
+&	Ramona	-	-
+identify	Ramona	-	-
+a	Ramona	-	-
+list	Ramona	-	-
+of	Ramona	-	-
+TW	Ramona	(O1	(3
+Marketer	Ramona	-	-
+'s	Ramona	O1)	3)
+who	Ramona	-	-
+would	Ramona	-	-
+like	Ramona	-	-
+to	Ramona	-	-
+have	Ramona	-	-
+CAS	Ramona	-	-
+training	Ramona	-	-
+?	Ramona	-	-
+
+I	Ramona	(P0)	(0)
+will	Ramona	-	-
+work	Ramona	-	-
+with	Ramona	-	-
+Perry	Ramona	(P2)	(2)
+to	Ramona	-	-
+schedule	Ramona	-	-
+the	Ramona	-	-
+training	Ramona	-	-
+times	Ramona	-	-
+.	Ramona	-	-
+
+Thanks	Ramona	-	-
+Ramona	Ramona	(P0)	(0)
+
+#end document

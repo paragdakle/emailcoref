@@ -1,0 +1,565 @@
+#begin document (ybarbo_p_265)
+Date	Daniel	-	-
+:	Daniel	-	-
+Tue	Daniel	-	-
+,	Daniel	-	-
+29	Daniel	-	-
+May	Daniel	-	-
+2001	Daniel	-	-
+07:53:07	Daniel	-	-
+-0700	Daniel	-	-
+(	Daniel	-	-
+PDT	Daniel	-	-
+)	Daniel	-	-
+
+From	Daniel	-	-
+:	Daniel	-	-
+daniel.rogers@enron.com	Daniel	(P0*)	(0)
+
+To	Daniel	-	-
+:	Daniel	-	-
+tony.galt@enron.com	Daniel	(P1*)	(1)
+,	Daniel	-	-
+paul.y'barbo@enron.com	Daniel	(P2*)	(2)
+
+Subject	Daniel	-	-
+:	Daniel	-	-
+Oman	Daniel	(D2	(3
+COU	Daniel	D2)	3)
+
+X	Daniel	-	-
+-	Daniel	-	-
+From	Daniel	-	-
+:	Daniel	-	-
+Rogers	Daniel	(P0	(0
+,	Daniel	-	-
+Daniel	Daniel	P0)	0)
+
+X	Daniel	-	-
+-	Daniel	-	-
+To	Daniel	-	-
+:	Daniel	-	-
+Galt	Daniel	(P1	(1
+,	Daniel	-	-
+Tony	Daniel	P1)	1)
+,	Daniel	-	-
+Y'Barbo	Daniel	(P2	(2
+,	Daniel	-	-
+Paul	Daniel	P2)	2)
+
+X	Daniel	-	-
+-	Daniel	-	-
+cc	Daniel	-	-
+:	Daniel	-	-
+
+X	Daniel	-	-
+-	Daniel	-	-
+bcc	Daniel	-	-
+:	Daniel	-	-
+
+Per	Daniel	-	-
+our	Daniel	(P0) | (P1) | (P2)	(0)|(1)|(2)
+discussion	Daniel	-	-
+this	Daniel	-	-
+morning	Daniel	-	-
+.	Daniel	-	-
+
+Forwarded	Daniel	-	-
+by	Daniel	-	-
+Daniel	Daniel	(P0	(0
+R	Daniel	-	-
+Rogers	Daniel	P0)	0)
+/	Daniel	-	-
+ENRON_DEVELOPMENT	Daniel	-	-
+on	Daniel	-	-
+05/29/2001	Daniel	-	-
+09:52	Daniel	-	-
+AM	Daniel	-	-
+
+"	Philip	-	-
+Weems	Philip	(P3*	(4
+,	Philip	-	-
+Philip	Philip	P3*)	4)
+"	Philip	-	-
+<	Philip	-	-
+PWeems@KSLAW.com	Philip	(P3)	(4)
+>	Philip	-	-
+05/17/2001	Philip	-	-
+12:01	Philip	-	-
+PM	Philip	-	-
+
+To	Philip	-	-
+:	Philip	-	-
+"	Philip	-	-
+'	Philip	-	-
+paul.y'barbo@enron.com	Philip	(P2)	(2)
+'	Philip	-	-
+"	Philip	-	-
+<	Philip	-	-
+paul.y'barbo@enron.com	Philip	(P2)	(2)
+>	Philip	-	-
+
+cc	Philip	-	-
+:	Philip	-	-
+"	Philip	-	-
+'	Philip	-	-
+daniel.r.rogers@enron.com	Philip	(P0)	(0)
+'	Philip	-	-
+"	Philip	-	-
+<	Philip	-	-
+daniel.r.rogers@enron.com	Philip	(P0)	(0)
+>	Philip	-	-
+
+Subject	Philip	-	-
+:	Philip	-	-
+Oman	Philip	(D2	(3
+COU	Philip	D2)	3)
+
+Paul	Philip	(P2)	(2)
+:	Philip	-	-
+
+Thanks	Philip	-	-
+for	Philip	-	-
+the	Philip	-	-
+call	Philip	-	-
+.	Philip	-	-
+
+As	Philip	-	-
+you	Philip	(P2)	(2)
+requested	Philip	-	-
+,	Philip	-	-
+here	Philip	-	-
+are	Philip	-	-
+copies	Philip	-	-
+of	Philip	-	-
+the	Philip	(D0	(5
+original	Philip	D0)	5)
+and	Philip	-	-
+proposed	Philip	(D1	(6
+COU	Philip	-	-
+forms	Philip	D1)	6)
+.	Philip	-	-
+
+Let	Philip	-	-
+me	Philip	(P3)	(4)
+know	Philip	-	-
+if	Philip	-	-
+you	Philip	(P2)	(2)
+have	Philip	-	-
+any	Philip	-	-
+questions	Philip	-	-
+.	Philip	-	-
+
+Philip	Philip	(P3	(4
+Weems	Philip	P3)	4)
+
+King	Philip	(O0*	(7
+&	Philip	-	-
+Spalding	Philip	O0*)	7)
+
+1100	Philip	(L0*	(8
+Louisiana	Philip	-	-
+,	Philip	-	-
+Suite	Philip	-	-
+3300	Philip	-	-
+Houston	Philip	-	-
+,	Philip	-	-
+Texas	Philip	-	-
+77002	Philip	L0*)	8)
+
+713	Philip	-	-
+-	Philip	-	-
+276	Philip	-	-
+-	Philip	-	-
+7373	Philip	-	-
+
+Email	Philip	-	-
+:	Philip	-	-
+PWEEMS@KSLAW.COM	Philip	(P3)	(4)
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Philip	-	-
+:	Philip	-	-
+Weems	Philip	(P3	(4
+,	Philip	-	-
+Philip	Philip	P3)	4)
+
+Sent	Philip	-	-
+:	Philip	-	-
+Tuesday	Philip	-	-
+,	Philip	-	-
+April	Philip	-	-
+03	Philip	-	-
+,	Philip	-	-
+2001	Philip	-	-
+12:08	Philip	-	-
+PM	Philip	-	-
+
+To	Philip	-	-
+:	Philip	-	-
+'	Philip	-	-
+daniel.r.rogers@enron.com	Philip	(P0)	(0)
+'	Philip	-	-
+
+Cc	Philip	-	-
+:	Philip	-	-
+Marietta	Philip	(P4*	(9
+,	Philip	-	-
+Kathy	Philip	P4*)	9)
+
+Subject	Philip	-	-
+:	Philip	-	-
+Hoegh	Philip	-	-
+Galleon	Philip	-	-
+-	Philip	-	-
+Oman	Philip	(D2	(3
+COU	Philip	D2)	3)
+
+Dan	Philip	(P0)	(0)
+:	Philip	-	-
+
+As	Philip	-	-
+you	Philip	(P0)	(0)
+requested	Philip	-	-
+yesterday	Philip	-	-
+,	Philip	-	-
+I	Philip	(P3)	(4)
+attach	Philip	-	-
+a	Philip	(D0	(5
+clean	Philip	D0)	5)
+and	Philip	-	-
+comparison	Philip	(D1	(6
+of	Philip	-	-
+the	Philip	(D2	(3
+Oman	Philip	-	-
+COU	Philip	D1) | D2)	3)|6)
+.	Philip	-	-
+
+The	Philip	-	-
+changes	Philip	-	-
+made	Philip	-	-
+result	Philip	-	-
+in	Philip	-	-
+Enron	Philip	(O1*)	(10)
+only	Philip	-	-
+acknowledging	Philip	-	-
+the	Philip	(D0	(5
+document	Philip	D0)	5)
+,	Philip	-	-
+rather	Philip	-	-
+than	Philip	-	-
+being	Philip	-	-
+responsible	Philip	-	-
+for	Philip	-	-
+the	Philip	-	-
+shipowner	Philip	-	-
+'s	Philip	-	-
+obligations	Philip	-	-
+as	Philip	-	-
+well	Philip	-	-
+.	Philip	-	-
+
+Please	Philip	-	-
+let	Philip	-	-
+me	Philip	(P3)	(4)
+know	Philip	-	-
+if	Philip	-	-
+this	Philip	-	-
+is	Philip	-	-
+what	Philip	-	-
+you	Philip	(P0)	(0)
+had	Philip	-	-
+in	Philip	-	-
+mind	Philip	-	-
+.	Philip	-	-
+
+Regards	Philip	-	-
+,	Philip	-	-
+Philip	Philip	(P3)	(4)
+
+<	Philip	-	-
+<	Philip	-	-
+Hoegh	Philip	(D0*	(5
+Galleon	Philip	-	-
+.	Philip	-	-
+DOC	Philip	D0*)	5)
+>	Philip	-	-
+
+<	Philip	-	-
+<	Philip	-	-
+Hoegh	Philip	(D1*	(6
+Galleon	Philip	-	-
+Red	Philip	-	-
+..	Philip	-	-
+DOC	Philip	D1*)	6)
+>	Philip	-	-
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Philip	-	-
+:	Philip	-	-
+Weems	Philip	(P3	(4
+,	Philip	-	-
+Philip	Philip	P3)	4)
+
+Sent	Philip	-	-
+:	Philip	-	-
+Tuesday	Philip	-	-
+,	Philip	-	-
+February	Philip	-	-
+06	Philip	-	-
+,	Philip	-	-
+2001	Philip	-	-
+11:09	Philip	-	-
+AM	Philip	-	-
+
+To	Philip	-	-
+:	Philip	-	-
+'	Philip	-	-
+rlnpc@hoegh.no	Philip	(P5*)	(11)
+'	Philip	-	-
+
+Cc	Philip	-	-
+:	Philip	-	-
+'	Philip	-	-
+stt@hoegh.no	Philip	(P6*)	(12)
+'	Philip	-	-
+;	Philip	-	-
+'	Philip	-	-
+Wayne.Perry@enron.com	Philip	(P7*)	(13)
+'	Philip	-	-
+;	Philip	-	-
+Daniel.R.Rogers@enron.com	Philip	(P0)	(0)
+;	Philip	-	-
+Clay.Harris@enron.com	Philip	(P8*)	(14)
+
+Subject	Philip	-	-
+:	Philip	-	-
+Hoegh	Philip	-	-
+Galleon	Philip	-	-
+Oman	Philip	(D2 | (L2*	(3|(15
+Port	Philip	L2*)	15)
+Conditions	Philip	-	-
+of	Philip	-	-
+Use	Philip	D2)	3)
+(	Philip	-	-
+March	Philip	-	-
+2001	Philip	-	-
+-	Philip	-	-
+December	Philip	-	-
+2001	Philip	-	-
+Loadings	Philip	-	-
+)	Philip	-	-
+
+Dear	Philip	-	-
+Roald	Philip	(P5)	(11)
+:	Philip	-	-
+
+Wayne	Philip	(P7	(13
+Perry	Philip	P7)	13)
+asked	Philip	-	-
+me	Philip	(P3)	(4)
+to	Philip	-	-
+forward	Philip	-	-
+to	Philip	-	-
+you	Philip	(P5)	(11)
+the	Philip	(D2	(3
+COU	Philip	D2)	3)
+that	Philip	(D2)	(3)
+will	Philip	-	-
+be	Philip	-	-
+needed	Philip	-	-
+for	Philip	-	-
+Oman	Philip	(L1*)	(16)
+.	Philip	-	-
+
+I	Philip	(P3)	(4)
+understand	Philip	-	-
+that	Philip	-	-
+Dan	Philip	(P0	(0
+Rogers	Philip	P0)	0)
+also	Philip	-	-
+transmitted	Philip	-	-
+this	Philip	(D2)	(3)
+to	Philip	-	-
+you	Philip	(P5)	(11)
+in	Philip	-	-
+late	Philip	-	-
+December	Philip	-	-
+for	Philip	-	-
+your	Philip	(P5)	(11)
+comments	Philip	-	-
+.	Philip	-	-
+
+It	Philip	-	-
+will	Philip	-	-
+be	Philip	-	-
+necessary	Philip	-	-
+for	Philip	-	-
+this	Philip	(D2	(3
+document	Philip	D2)	3)
+to	Philip	-	-
+be	Philip	-	-
+executed	Philip	-	-
+by	Philip	-	-
+all	Philip	-	-
+parties	Philip	-	-
+prior	Philip	-	-
+to	Philip	-	-
+the	Philip	-	-
+Hoegh	Philip	-	-
+Galleon	Philip	-	-
+calling	Philip	-	-
+on	Philip	-	-
+the	Philip	(L2	(15
+port	Philip	L2)	15)
+in	Philip	-	-
+Oman	Philip	(L1)	(16)
+.	Philip	-	-
+
+Please	Philip	-	-
+let	Philip	-	-
+me	Philip	(P3)	(4)
+know	Philip	-	-
+if	Philip	-	-
+you	Philip	(P5)	(11)
+have	Philip	-	-
+any	Philip	-	-
+questions	Philip	-	-
+.	Philip	-	-
+
+Regards	Philip	-	-
+,	Philip	-	-
+
+Philip	Philip	(P3	(4
+Weems	Philip	P3)	4)
+
+King	Philip	(O0	(7
+&	Philip	-	-
+Spalding	Philip	O0)	7)
+
+713	Philip	-	-
+-	Philip	-	-
+276	Philip	-	-
+-	Philip	-	-
+7373	Philip	-	-
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Daniel	-	-
+:	Daniel	-	-
+Daniel.R.Rogers@enron.com	Daniel	(P0)	(0)
+[	Daniel	-	-
+Daniel.R.Rogers@enron.com	Daniel	(P0)	(0)
+]	Daniel	-	-
+
+Sent	Daniel	-	-
+:	Daniel	-	-
+Tuesday	Daniel	-	-
+,	Daniel	-	-
+February	Daniel	-	-
+06	Daniel	-	-
+,	Daniel	-	-
+2001	Daniel	-	-
+9:43	Daniel	-	-
+AM	Daniel	-	-
+
+To	Daniel	-	-
+:	Daniel	-	-
+Weems	Daniel	(P3	(4
+,	Daniel	-	-
+Philip	Daniel	P3)	4)
+
+Cc	Daniel	-	-
+:	Daniel	-	-
+Wayne.Perry@enron.com	Daniel	(P7)	(13)
+
+Subject	Daniel	-	-
+:	Daniel	-	-
+Hoegh	Daniel	-	-
+Galleon	Daniel	-	-
+Oman	Daniel	(D2 | (L2	(3|(15
+Port	Daniel	L2)	15)
+COU	Daniel	D2)	3)
+(	Daniel	-	-
+March	Daniel	-	-
+2001	Daniel	-	-
+-	Daniel	-	-
+December	Daniel	-	-
+2001	Daniel	-	-
+Loadings	Daniel	-	-
+)	Daniel	-	-
+
+<	Daniel	-	-
+<	Daniel	-	-
+EIGSC	Daniel	(D2*	(3
+-	Daniel	-	-
+OLNG	Daniel	-	-
+-	Daniel	-	-
+VESSEL	Daniel	-	-
+-	Daniel	-	-
+CONDITIONS	Daniel	-	-
+-	Daniel	-	-
+OF	Daniel	-	-
+-	Daniel	-	-
+USE	Daniel	-	-
+[	Daniel	-	-
+Cargoes	Daniel	-	-
+-	Daniel	-	-
+Commencing	Daniel	-	-
+-	Daniel	-	-
+March-2001	Daniel	-	-
+]	Daniel	-	-
+(	Daniel	-	-
+12	Daniel	-	-
+-	Daniel	-	-
+18	Daniel	-	-
+-	Daniel	-	-
+00	Daniel	-	-
+)	Daniel	-	-
+.doc	Daniel	D2*)	3)
+
+-	Daniel	-	-
+Hoegh	Daniel	(D0	(5
+Galleon	Daniel	-	-
+.	Daniel	-	-
+DOC	Daniel	D0)	5)
+
+-	Daniel	-	-
+Hoegh	Daniel	(D1	(6
+Galleon	Daniel	-	-
+Red	Daniel	-	-
+..	Daniel	-	-
+DOC	Daniel	D1)	6)
+
+-	Daniel	-	-
+EIGSC	Daniel	(D2	(3
+-	Daniel	-	-
+OLNG	Daniel	-	-
+-	Daniel	-	-
+VESSEL	Daniel	-	-
+-	Daniel	-	-
+CONDITIONS	Daniel	-	-
+-	Daniel	-	-
+OF	Daniel	-	-
+-	Daniel	-	-
+USE	Daniel	-	-
+[	Daniel	-	-
+Cargoes	Daniel	-	-
+-	Daniel	-	-
+Commencing	Daniel	-	-
+-	Daniel	-	-
+March-2001	Daniel	-	-
+]	Daniel	-	-
+(	Daniel	-	-
+12	Daniel	-	-
+-	Daniel	-	-
+18	Daniel	-	-
+-00	Daniel	-	-
+)	Daniel	-	-
+.doc	Daniel	D2)	3)
+#end document
