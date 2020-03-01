@@ -21,7 +21,7 @@ The seed corpus contains 46 email threads comprising of 245 email messages.
 
 An email thread annotation is saved with the following naming convention:
 
-<username>_<email_no>.conll
+username_email_no.conll
 
 where:
 username - Name of the user directory in the Enron Email Corpus.
