@@ -17,7 +17,7 @@ More details are available in [our paper]() (which should be cited if you use or
 
 ## Corpus Description
 
-The seed corpus contains 46 email threads comprising of 245 email messages.
+The seed corpus contains 46 email threads comprising of 245 email messages. These threads are split into a 36:10 train:test split.
 
 An email thread annotation is saved with the following naming convention:
 
