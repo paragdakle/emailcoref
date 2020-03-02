@@ -1,0 +1,264 @@
+#begin document (staab_t_7)
+Date	Gloria	-	-
+:	Gloria	-	-
+Mon	Gloria	-	-
+,	Gloria	-	-
+17	Gloria	-	-
+Dec	Gloria	-	-
+2001	Gloria	-	-
+14:28:03	Gloria	-	-
+-0800	Gloria	-	-
+(	Gloria	-	-
+PST	Gloria	-	-
+)	Gloria	-	-
+
+From	Gloria	-	-
+:	Gloria	-	-
+g..barkowsky@enron.com	Gloria	(P0*)	(0)
+
+To	Gloria	-	-
+:	Gloria	-	-
+theresa.staab@enron.com	Gloria	(P1*)	(1)
+
+Subject	Gloria	-	-
+:	Gloria	-	-
+RE	Gloria	-	-
+:	Gloria	-	-
+Final	Gloria	-	-
+Statements	Gloria	(D0*	(2
+and	Gloria	-	-
+Invoices	Gloria	D0*)	2)
+for	Gloria	-	-
+November	Gloria	-	-
+
+X	Gloria	-	-
+-	Gloria	-	-
+From	Gloria	-	-
+:	Gloria	-	-
+Barkowsky	Gloria	(P0	(0
+,	Gloria	-	-
+Gloria	Gloria	-	-
+G.	Gloria	P0)	0)
+
+X	Gloria	-	-
+-	Gloria	-	-
+To	Gloria	-	-
+:	Gloria	-	-
+Staab	Gloria	(P1	(1
+,	Gloria	-	-
+Theresa	Gloria	P1)	1)
+
+X	Gloria	-	-
+-	Gloria	-	-
+cc	Gloria	-	-
+:	Gloria	-	-
+
+X	Gloria	-	-
+-	Gloria	-	-
+bcc	Gloria	-	-
+:	Gloria	-	-
+
+yes	Gloria	-	-
+,	Gloria	-	-
+I	Gloria	(P0)	(0)
+'ll	Gloria	-	-
+do	Gloria	-	-
+this	Gloria	(D0)	(2)
+.	Gloria	-	-
+
+Do	Gloria	-	-
+you	Gloria	(P1)	(1)
+have	Gloria	-	-
+anything	Gloria	-	-
+for	Gloria	-	-
+Crestone	Gloria	(O1*	(3
+and	Gloria	-	-
+Lost	Gloria	-	-
+Creek	Gloria	O1*)	3)
+?	Gloria	-	-
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Theresa	-	-
+:	Theresa	-	-
+Staab	Theresa	(P1	(1
+,	Theresa	-	-
+Theresa	Theresa	P1)	1)
+
+Sent	Theresa	-	-
+:	Theresa	-	-
+Thursday	Theresa	-	-
+,	Theresa	-	-
+December	Theresa	-	-
+13	Theresa	-	-
+,	Theresa	-	-
+2001	Theresa	-	-
+3:00	Theresa	-	-
+PM	Theresa	-	-
+
+To	Theresa	-	-
+:	Theresa	-	-
+Barkowsky	Theresa	(P0	(0
+,	Theresa	-	-
+Gloria	Theresa	-	-
+G.	Theresa	P0)	0)
+
+Cc	Theresa	-	-
+:	Theresa	-	-
+Whitt	Theresa	(P2*	(4
+,	Theresa	-	-
+Mark	Theresa	P2*)	4)
+
+Subject	Theresa	-	-
+:	Theresa	-	-
+FW	Theresa	-	-
+:	Theresa	-	-
+Final	Theresa	-	-
+Statements	Theresa	(D0	(2
+and	Theresa	-	-
+Invoices	Theresa	D0)	2)
+for	Theresa	-	-
+November	Theresa	-	-
+
+Gloria	Theresa	(P0)	(0)
+,	Theresa	-	-
+
+Here	Theresa	-	-
+is	Theresa	-	-
+a	Theresa	(D0	(2
+final	Theresa	-	-
+invoice	Theresa	D0)	2)
+from	Theresa	-	-
+MPC	Theresa	(O0*)	(5)
+.	Theresa	-	-
+
+Will	Theresa	-	-
+you	Theresa	(P0)	(0)
+handle	Theresa	-	-
+this	Theresa	(D0)	(2)
+?	Theresa	-	-
+
+Please	Theresa	-	-
+call	Theresa	-	-
+if	Theresa	-	-
+you	Theresa	(P0)	(0)
+have	Theresa	-	-
+any	Theresa	-	-
+questions	Theresa	-	-
+.	Theresa	-	-
+
+Thanks	Theresa	-	-
+,	Theresa	-	-
+
+Theresa	Theresa	(P1)	(1)
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Mark	-	-
+:	Mark	-	-
+Whitt	Mark	(P2	(4
+,	Mark	-	-
+Mark	Mark	P2)	4)
+
+Sent	Mark	-	-
+:	Mark	-	-
+Thursday	Mark	-	-
+,	Mark	-	-
+December	Mark	-	-
+13	Mark	-	-
+,	Mark	-	-
+2001	Mark	-	-
+1:33	Mark	-	-
+PM	Mark	-	-
+
+To	Mark	-	-
+:	Mark	-	-
+Staab	Mark	(P1	(1
+,	Mark	-	-
+Theresa	Mark	P1)	1)
+
+Subject	Mark	-	-
+:	Mark	-	-
+FW	Mark	-	-
+:	Mark	-	-
+Final	Mark	-	-
+Statements	Mark	(D0	(2
+and	Mark	-	-
+Invoices	Mark	D0)	2)
+for	Mark	-	-
+November	Mark	-	-
+
+Who	Mark	-	-
+s	Mark	-	-
+hsould	Mark	-	-
+we	Mark	-	-
+send	Mark	-	-
+this	Mark	(D0)	(2)
+to	Mark	-	-
+?	Mark	-	-
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Connie	-	-
+:	Connie	-	-
+McDonald	Connie	(O0	(5
+,	Connie	-	-
+Connie	Connie	-	-
+A	Connie	O0)	5)
+[	Connie	-	-
+cmcdonal@mtpower.com	Connie	(O0)	(5)
+]	Connie	-	-
+
+Sent	Connie	-	-
+:	Connie	-	-
+Wednesday	Connie	-	-
+,	Connie	-	-
+December	Connie	-	-
+12	Connie	-	-
+,	Connie	-	-
+2001	Connie	-	-
+4:35	Connie	-	-
+PM	Connie	-	-
+
+To	Connie	-	-
+:	Connie	-	-
+Whitt	Connie	(P2	(4
+,	Connie	-	-
+Mark	Connie	P2)	4)
+;	Connie	-	-
+Ogunbunmi	Connie	(P3*	(6
+,	Connie	-	-
+Hakeem	Connie	P3*)	6)
+;	Connie	-	-
+Adams	Connie	(P4*	(7
+,	Connie	-	-
+Jacqueline	Connie	-	-
+P.	Connie	P4*)	7)
+;	Connie	-	-
+Mendel	Connie	(P5*	(8
+,	Connie	-	-
+Shelly	Connie	P5*)	8)
+
+Subject	Connie	-	-
+:	Connie	-	-
+Final	Connie	-	-
+Statements	Connie	(D0	(2
+and	Connie	-	-
+Invoices	Connie	D0)	2)
+for	Connie	-	-
+November	Connie	-	-
+
+<	Connie	-	-
+<	Connie	-	-
+ENRON2001.xls	Connie	(D0)	(2)
+>	Connie	-	-
+>	Connie	-	-
+
+<	Connie	-	-
+<	Connie	-	-
+7012_11301z.exe	Connie	(D1*)	(9)
+
+#end document
