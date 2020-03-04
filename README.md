@@ -46,7 +46,6 @@ The code used to generate the results can be found [here](https://github.com/man
 
 The code to convert predictions back to CoNLL format in the coref repository did not work for us. Our .jsonlines to .conll converter can be found in jsonlines2conll.py and can be run as follows:
 
-  ::
     python3 jsonlines2conll.py <jsonlines_filepath> <gold_conll_filepath> <output_filepath>
     
     where
