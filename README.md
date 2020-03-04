@@ -2,7 +2,7 @@
 
 Corpus containing 46 Enron email threads manually-annotated for entity coreference resolution task. The actual emails can be downloaded from [here](https://www.cs.cmu.edu/~./enron/).
 
-More details are available in [our paper]() (which should be cited if you use or discuss this corpus in your work).
+More details are available in [our paper]() (which should be cited if you use or discuss this corpus in your work). Currently the link does not point to a copy of the paper but this will be updated soon.
 
 </p>
 <div class="highlight highlight-source-shell"><pre>
@@ -39,3 +39,17 @@ Column | Type         | Description
 2      | Speaker           | The speaker of the token
 3      | Entity Type        | The type of the entity this token represents. This column also contains two additional annotations - coreference chain informaion for the entity type encoded in a parenthesis structure and if the entity is the antecedent given by "*". E.g. In "(P0*", ( implies the token is starting a mention span, P implies the token is of PER entity type, 0 implies the token belongs to the coreference chain with id 0 for PER entity type, and * implies it is part of the antecedent of the coreference chain.
 4      | Coreference | Coreference chain information encoded in a parenthesis structure.
+
+## Experiments
+
+The code used to generate the results can be found [here](https://github.com/mandarjoshi90/coref). Evalution scripts for all metrics can be found [here](https://github.com/conll/reference-coreference-scorers).
+
+The code to convert predictions back to CoNLL format in the coref repository did not work for us. Our .jsonlines to .conll converter can be found in jsonlines2conll.py and can be run as follows:
+
+  ::
+    python3 jsonlines2conll.py <jsonlines_filepath> <gold_conll_filepath> <output_filepath>
+    
+    where
+    jsonlines_filepath: The path to the  predicted .jsonlines file which is to be converted back to a .conll file with the predicted coreference annotations.
+    gold_conll_filepath: The path to the gold .conll file which was used as an input for obtaining predictions.
+    output_filepath: The path to save the generated .conll filepath.
