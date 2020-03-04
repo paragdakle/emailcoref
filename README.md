@@ -44,11 +44,11 @@ Column | Type         | Description
 
 The code used to generate the results can be found [here](https://github.com/mandarjoshi90/coref). Evalution scripts for all metrics can be found [here](https://github.com/conll/reference-coreference-scorers).
 
-The code to convert predictions back to CoNLL format in the coref repository did not work for us. Our .jsonlines to .conll converter can be found in jsonlines2conll.py and can be run as follows:
+[The code to convert predictions back to CoNLL format in the coref repository did not work for us. Our .jsonlines to .conll converter can be found in jsonlines2conll.py and can be run as follows:]: #
 
-    python3 jsonlines2conll.py <jsonlines_filepath> <gold_conll_filepath> <output_filepath>
+[python3 jsonlines2conll.py <jsonlines_filepath> <gold_conll_filepath> <output_filepath>]: #
     
-    where
-    jsonlines_filepath: The path to the  predicted .jsonlines file which is to be converted back to a .conll file with the predicted coreference annotations.
-    gold_conll_filepath: The path to the gold .conll file which was used as an input for obtaining predictions.
-    output_filepath: The path to save the generated .conll filepath.
+[where
+jsonlines_filepath: The path to the  predicted .jsonlines file which is to be converted back to a .conll file with the predicted coreference annotations.
+gold_conll_filepath: The path to the gold .conll file which was used as an input for obtaining predictions.
+output_filepath: The path to save the generated .conll filepath.]:#
