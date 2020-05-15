@@ -2,16 +2,16 @@
 
 Corpus containing 46 Enron email threads manually-annotated for entity coreference resolution task. The actual emails can be downloaded from [here](https://www.cs.cmu.edu/~./enron/).
 
-More details are available in [our paper]() (which should be cited if you use or discuss this corpus in your work). Currently the link does not point to a copy of the paper but this will be updated soon.
+More details are available in [our paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.8.pdf) (which should be cited if you use or discuss this corpus in your work).
 
 </p>
 <div class="highlight highlight-source-shell"><pre>
 @inproceedings{dakle2020study,
   title =     {A Study on Entity Resolution in Email Conversations},
   author =    {Dakle, Parag Pravin and Desai, Takshak and Moldovan, Dan},
-  booktitle = {Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)},
+  booktitle = {Proceedings of the 12th Conference on Language Resources and Evaluation (LREC 2020)},
   year =      {2020},
-  pages =     {to appear},
+  pages =     {65-73},
 }
 </pre></div>
 
