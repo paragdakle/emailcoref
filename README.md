@@ -6,12 +6,21 @@ More details are available in [our paper](http://www.lrec-conf.org/proceedings/l
 
 </p>
 <div class="highlight highlight-source-shell"><pre>
-@inproceedings{dakle2020study,
-  title =     {A Study on Entity Resolution in Email Conversations},
-  author =    {Dakle, Parag Pravin and Desai, Takshak and Moldovan, Dan},
-  booktitle = {Proceedings of the 12th Conference on Language Resources and Evaluation (LREC 2020)},
-  year =      {2020},
-  pages =     {65-73},
+@inproceedings{dakle-etal-2020-study,
+    title = "A Study on Entity Resolution for Email Conversations",
+    author = "Dakle, Parag Pravin  and
+      Desai, Takshak  and
+      Moldovan, Dan",
+    booktitle = "Proceedings of The 12th Language Resources and Evaluation Conference",
+    month = may,
+    year = "2020",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://www.aclweb.org/anthology/2020.lrec-1.8",
+    pages = "65--73",
+    abstract = "This paper investigates the problem of entity resolution for email conversations and presents a seed annotated corpus of email threads labeled with entity coreference chains. Characteristics of email threads concerning reference resolution are first discussed, and then the creation of the corpus and annotation steps are explained. Finally, performance of the current state-of-the-art deep learning models on the seed corpus is evaluated and qualitative error analysis on the predictions obtained is presented.",
+    language = "English",
+    ISBN = "979-10-95546-34-4",
 }
 </pre></div>
 
