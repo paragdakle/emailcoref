@@ -44,10 +44,12 @@ The columns contain:
 Column | Type         | Description
 :-----:|----------------|--------------------------------------------
 1      | Token             | The actual token as found in the email thread
-2      | MI             | The actual token as found in the email thread
-      | Speaker           | The speaker of the token
-      | Entity Type        | The type of the entity this token represents. This column also contains two additional annotations - coreference chain informaion for the entity type encoded in a parenthesis structure and if the entity is the antecedent given by "*". E.g. In "(P0*", ( implies the token is starting a mention span, P implies the token is of PER entity type, 0 implies the token belongs to the coreference chain with id 0 for PER entity type, and * implies it is part of the antecedent of the coreference chain.
-4      | Coreference | Coreference chain information encoded in a parenthesis structure.
+2      | MI             | The value of message identifier feature for the token
+3      | SI           | The value of section identifier feature for the token
+4      | Speaker           | The speaker of the token
+5      | Entity Type        | The type of the entity this token represents. This column also contains two additional annotations - coreference chain informaion for the entity type encoded in a parenthesis structure and if the entity is the antecedent given by "*". E.g. In "(P0*", ( implies the token is starting a mention span, P implies the token is of PER entity type, 0 implies the token belongs to the coreference chain with id 0 for PER entity type, and * implies it is part of the antecedent of the coreference chain.
+6      | Mention | Mention information encoded in a parenthesis structure.
+7      | Coreference | Coreference chain information encoded in a parenthesis structure.
 
 ## Experiments
 
