@@ -2,9 +2,24 @@
 
 Corpus containing 6001 Enron email threads weakly-annotated for entity coreference resolution task. The actual emails can be downloaded from [here](https://www.cs.cmu.edu/~./enron/).
 
-More details are available in [our paper]() (which should be cited if you use or discuss CEREC in your work).
+More details are available in [our paper](https://www.aclweb.org/anthology/2020.coling-main.30.pdf) (which should be cited if you use or discuss CEREC in your work).
 
 </p>
+<div class="highlight highlight-source-shell"><pre>
+@inproceedings{dakle-moldovan-2020-cerec,
+    title = "{CEREC}: A Corpus for Entity Resolution in Email Conversations",
+    author = "Dakle, Parag Pravin  and
+      Moldovan, Dan",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.coling-main.30",
+    pages = "339--349",
+    abstract = "We present the first large scale corpus for entity resolution in email conversations (CEREC). The corpus consists of 6001 email threads from the Enron Email Corpus containing 36,448 email messages and 38,996 entity coreference chains. The annotation is carried out as a two-step process with minimal manual effort. Experiments are carried out for evaluating different features and performance of four baselines on the created corpus. For the task of mention identification and coreference resolution, a best performance of 54.1 F1 is reported, highlighting the room for improvement. An in-depth qualitative and quantitative error analysis is presented to understand the limitations of the baselines considered.",
+}
+</pre></div>
 
 ## Corpus Description
 
