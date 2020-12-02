@@ -61,7 +61,7 @@ The zip file contains the following files:
 3. mention.corrected.XX.conll - Email threads that were manually corrected for mention annotations and then used to train a model for annotation quality evaluation.
 4. seed.conll - The email threads from the seed corpus containing feature annotations and separated mention annotations.
 
-<strong>Note: Annotations for columns 2-5 are provided only for files mentioned in points 2 and 4 above. For other files, either the column is blank or has system generated values.</strong>
+<strong>Note: Annotations for columns 2-5 are provided only for files mentioned in points 2 and 4 above. For other files, either the columns are blank or have system generated values.</strong>
 
 ## Experiments
 
