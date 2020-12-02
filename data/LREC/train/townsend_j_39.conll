@@ -1,0 +1,390 @@
+#begin document (townsend_j_39)
+Date	Victor	-	-
+:	Victor	-	-
+Thu	Victor	-	-
+,	Victor	-	-
+31	Victor	-	-
+Jan	Victor	-	-
+2002	Victor	-	-
+08:19:11	Victor	-	-
+-0800	Victor	-	-
+(	Victor	-	-
+PST	Victor	-	-
+)	Victor	-	-
+
+From	Victor	-	-
+:	Victor	-	-
+victor.lamadrid@enron.com	Victor	(P0*)	(0)
+
+To	Victor	-	-
+:	Victor	-	-
+chris.germany@enron.com	Victor	(P1*)	(1)
+
+Subject	Victor	-	-
+:	Victor	-	-
+FW	Victor	-	-
+:	Victor	-	-
+Move	Victor	-	-
+all	Victor	-	-
+your	Victor	(P8) | (P9) | (P11) | (P12) | (P13) | (P10) | (P14) | (P15) | (P16) | (P3) | (P17)	(2)|(3)|(4)|(5)|(6)|(7)|(8)|(9)|(10)|(11)|(12)
+files	Victor	-	-
+for	Victor	-	-
+NEW	Victor	(O0*	(13
+COMPANY	Victor	O0*)	13)
+
+Cc	Victor	-	-
+:	Victor	-	-
+judy.townsend@enron.com	Victor	(P2*)	(14)
+
+Bcc	Victor	-	-
+:	Victor	-	-
+judy.townsend@enron.com	Victor	(P2)	(14)
+
+X	Victor	-	-
+-	Victor	-	-
+From	Victor	-	-
+:	Victor	-	-
+Lamadrid	Victor	(P0	(0
+,	Victor	-	-
+Victor	Victor	P0)	0)
+
+X	Victor	-	-
+-	Victor	-	-
+To	Victor	-	-
+:	Victor	-	-
+Germany	Victor	(P1	(1
+,	Victor	-	-
+Chris	Victor	P1)	1)
+
+X	Victor	-	-
+-	Victor	-	-
+cc	Victor	-	-
+:	Victor	-	-
+Townsend	Victor	(P2	(14
+,	Victor	-	-
+Judy	Victor	P2)	14)
+
+X	Victor	-	-
+-	Victor	-	-
+bcc	Victor	-	-
+:	Victor	-	-
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Victor	-	-
+:	Victor	-	-
+Lamadrid	Victor	(P0	(0
+,	Victor	-	-
+Victor	Victor	P0)	0)
+
+Sent	Victor	-	-
+:	Victor	-	-
+Thursday	Victor	-	-
+,	Victor	-	-
+December	Victor	-	-
+13	Victor	-	-
+,	Victor	-	-
+2001	Victor	-	-
+4:11	Victor	-	-
+PM	Victor	-	-
+
+To	Victor	-	-
+:	Victor	-	-
+Storey	Victor	(P4*	(15
+,	Victor	-	-
+Geoff	Victor	P4*)	15)
+
+Cc	Victor	-	-
+:	Victor	-	-
+Superty	Victor	(P3*	(11
+,	Victor	-	-
+Robert	Victor	P3*)	11)
+;	Victor	-	-
+Kinsey	Victor	(P5*	(16
+,	Victor	-	-
+Lisa	Victor	P5*)	16)
+;	Victor	-	-
+Sullivan	Victor	(P6*	(17
+,	Victor	-	-
+Patti	Victor	P6*)	17)
+;	Victor	-	-
+Gay	Victor	(P7*	(18
+,	Victor	-	-
+Randall	Victor	-	-
+L.	Victor	P7*)	18)
+
+Subject	Victor	-	-
+:	Victor	-	-
+FW	Victor	-	-
+:	Victor	-	-
+Move	Victor	-	-
+all	Victor	-	-
+your	Victor	(P8) | (P9) | (P11) | (P12) | (P13) | (P10) | (P14) | (P15) | (P16) | (P3) | (P17)	(2)|(3)|(4)|(5)|(6)|(7)|(8)|(9)|(10)|(11)|(12)
+files	Victor	-	-
+for	Victor	-	-
+NEW	Victor	(O0	(13
+COMPANY	Victor	O0)	13)
+
+The	Victor	(D0	(19
+directory	Victor	D0)	19)
+we	Victor	(O1)	(20)
+(	Victor	-	-
+east	Victor	(O1*	(20
+desk	Victor	-	-
+logistics	Victor	O1*)	20)
+)	Victor	-	-
+would	Victor	-	-
+like	Victor	-	-
+moved	Victor	-	-
+(	Victor	-	-
+copied	Victor	-	-
+)	Victor	-	-
+for	Victor	-	-
+the	Victor	(O0	(13
+new	Victor	-	-
+company	Victor	O0)	13)
+is	Victor	-	-
+O:\common\logistics\gas\eastdesk	Victor	(D0*)	(19)
+.	Victor	-	-
+
+THANKS	Victor	-	-
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Victor	-	-
+:	Victor	-	-
+Lamadrid	Victor	(P0	(0
+,	Victor	-	-
+Victor	Victor	P0)	0)
+
+Sent	Victor	-	-
+:	Victor	-	-
+Thursday	Victor	-	-
+,	Victor	-	-
+December	Victor	-	-
+13	Victor	-	-
+,	Victor	-	-
+2001	Victor	-	-
+2:26	Victor	-	-
+PM	Victor	-	-
+
+To	Victor	-	-
+:	Victor	-	-
+Allwein	Victor	(P8*	(2
+,	Victor	-	-
+Robert	Victor	P8*)	2)
+;	Victor	-	-
+Driscoll	Victor	(P9*	(3
+-	Victor	-	-
+Ernest	Victor	-	-
+,	Victor	-	-
+Marde	Victor	-	-
+L.	Victor	P9*)	3)
+;	Victor	-	-
+Garcia	Victor	(P11*	(4
+,	Victor	-	-
+Clarissa	Victor	P11*)	4)
+;	Victor	-	-
+Goodell	Victor	(P12*	(5
+,	Victor	-	-
+Scott	Victor	P12*)	5)
+;	Victor	-	-
+Halstead	Victor	(P13*	(6
+,	Victor	-	-
+Lia	Victor	P13*)	6)
+;	Victor	-	-
+Homco	Victor	(P10*	(7
+,	Victor	-	-
+Meredith	Victor	P10*)	7)
+;	Victor	-	-
+Loving	Victor	(P14*	(8
+,	Victor	-	-
+Scott	Victor	P14*)	8)
+;	Victor	-	-
+Ordway	Victor	(P15*	(9
+,	Victor	-	-
+Chris	Victor	P15*)	9)
+;	Victor	-	-
+Sanchez	Victor	(P16*	(10
+,	Victor	-	-
+Christina	Victor	P16*)	10)
+;	Victor	-	-
+Superty	Victor	(P3	(11
+,	Victor	-	-
+Robert	Victor	P3)	11)
+;	Victor	-	-
+Versen	Victor	(P17*	(12
+,	Victor	-	-
+Victoria	Victor	P17*)	12)
+
+Subject	Victor	-	-
+:	Victor	-	-
+FW	Victor	-	-
+:	Victor	-	-
+Move	Victor	-	-
+all	Victor	-	-
+your	Victor	(P8) | (P9) | (P11) | (P12) | (P13) | (P10) | (P14) | (P15) | (P16) | (P3) | (P17)	(2)|(3)|(4)|(5)|(6)|(7)|(8)|(9)|(10)|(11)|(12)
+files	Victor	-	-
+for	Victor	-	-
+NEW	Victor	(O0	(13
+COMPANY	Victor	O0)	13)
+
+Another	Victor	-	-
+thought	Victor	-	-
+is	Victor	-	-
+to	Victor	-	-
+simply	Victor	-	-
+copy	Victor	-	-
+all	Victor	-	-
+of	Victor	-	-
+your	Victor	(P8) | (P9) | (P11) | (P12) | (P13) | (P10) | (P14) | (P15) | (P16) | (P3) | (P17)	(2)|(3)|(4)|(5)|(6)|(7)|(8)|(9)|(10)|(11)|(12)
+files	Victor	-	-
+onto	Victor	-	-
+the	Victor	(D0	(19
+new	Victor	-	-
+directory	Victor	D0)	19)
+if	Victor	-	-
+you	Victor	(P8) | (P9) | (P11) | (P12) | (P13) | (P10) | (P14) | (P15) | (P16) | (P3) | (P17)	(2)|(3)|(4)|(5)|(6)|(7)|(8)|(9)|(10)|(11)|(12)
+prefer	Victor	-	-
+to	Victor	-	-
+do	Victor	-	-
+it	Victor	-	-
+that	Victor	-	-
+way	Victor	-	-
+.	Victor	-	-
+
+THANKS	Victor	-	-
+
+Original	Metadata	-	-
+Message	Metadata	-	-
+
+From	Victor	-	-
+:	Victor	-	-
+Lamadrid	Victor	(P0	(0
+,	Victor	-	-
+Victor	Victor	P0)	0)
+
+Sent	Victor	-	-
+:	Victor	-	-
+Thursday	Victor	-	-
+,	Victor	-	-
+December	Victor	-	-
+13	Victor	-	-
+,	Victor	-	-
+2001	Victor	-	-
+11:27	Victor	-	-
+AM	Victor	-	-
+
+To	Victor	-	-
+:	Victor	-	-
+Allwein	Victor	(P8	(2
+,	Victor	-	-
+Robert	Victor	P8)	2)
+;	Victor	-	-
+Driscoll	Victor	(P9	(3
+-	Victor	-	-
+Ernest	Victor	-	-
+,	Victor	-	-
+Marde	Victor	-	-
+L.	Victor	P9)	3)
+;	Victor	-	-
+Garcia	Victor	(P11	(4
+,	Victor	-	-
+Clarissa	Victor	P11)	4)
+;	Victor	-	-
+Goodell	Victor	(P12	(5
+,	Victor	-	-
+Scott	Victor	P12)	5)
+;	Victor	-	-
+Halstead	Victor	(P13	(6
+,	Victor	-	-
+Lia	Victor	P13)	6)
+;	Victor	-	-
+Homco	Victor	(P10	(7
+,	Victor	-	-
+Meredith	Victor	P10)	7)
+;	Victor	-	-
+Loving	Victor	(P14	(8
+,	Victor	-	-
+Scott	Victor	P14)	8)
+;	Victor	-	-
+Ordway	Victor	(P15	(9
+,	Victor	-	-
+Chris	Victor	P15)	9)
+;	Victor	-	-
+Sanchez	Victor	(P16	(10
+,	Victor	-	-
+Christina	Victor	P16)	10)
+;	Victor	-	-
+Superty	Victor	(P3	(11
+,	Victor	-	-
+Robert	Victor	P3)	11)
+;	Victor	-	-
+Versen	Victor	(P17	(12
+,	Victor	-	-
+Victoria	Victor	P17)	12)
+
+Cc	Victor	-	-
+:	Victor	-	-
+Germany	Victor	(P1	(1
+,	Victor	-	-
+Chris	Victor	P1)	1)
+
+Subject	Victor	-	-
+:	Victor	-	-
+Move	Victor	-	-
+all	Victor	-	-
+your	Victor	(P8) | (P9) | (P11) | (P12) | (P13) | (P10) | (P14) | (P15) | (P16) | (P3) | (P17)	(2)|(3)|(4)|(5)|(6)|(7)|(8)|(9)|(10)|(11)|(12)
+files	Victor	-	-
+for	Victor	-	-
+NEW	Victor	(O0	(13
+COMPANY	Victor	O0)	13)
+
+Team	Victor	(P8) | (P9) | (P11) | (P12) | (P13) | (P10) | (P14) | (P15) | (P16) | (P3) | (P17)	(2)|(3)|(4)|(5)|(6)|(7)|(8)|(9)|(10)|(11)|(12)
+,	Victor	-	-
+Please	Victor	-	-
+move	Victor	-	-
+all	Victor	-	-
+the	Victor	-	-
+files	Victor	-	-
+you	Victor	(P8) | (P9) | (P11) | (P12) | (P13) | (P10) | (P14) | (P15) | (P16) | (P3) | (P17)	(2)|(3)|(4)|(5)|(6)|(7)|(8)|(9)|(10)|(11)|(12)
+need	Victor	-	-
+to	Victor	-	-
+do	Victor	-	-
+your	Victor	(P8) | (P9) | (P11) | (P12) | (P13) | (P10) | (P14) | (P15) | (P16) | (P3) | (P17)	(2)|(3)|(4)|(5)|(6)|(7)|(8)|(9)|(10)|(11)|(12)
+jobs	Victor	-	-
+(	Victor	-	-
+Phone	Victor	-	-
+lists	Victor	-	-
+,	Victor	-	-
+ID	Victor	-	-
+'s	Victor	-	-
+,	Victor	-	-
+spreadsheets	Victor	-	-
+,	Victor	-	-
+anything	Victor	-	-
+)	Victor	-	-
+to	Victor	-	-
+O:\common\logistics\gas\eastdesk	Victor	(D0	(19
+directory	Victor	D0)	19)
+.	Victor	-	-
+
+A	Victor	-	-
+copy	Victor	-	-
+of	Victor	-	-
+this	Victor	(D0)	(19)
+will	Victor	-	-
+be	Victor	-	-
+made	Victor	-	-
+to	Victor	-	-
+conduct	Victor	-	-
+business	Victor	-	-
+in	Victor	-	-
+New	Victor	(O0	(13
+Company	Victor	O0)	13)
+....	Victor	-	-
+
+THANKS	Victor	-	-
+#end document
