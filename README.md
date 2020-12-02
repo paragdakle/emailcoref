@@ -53,7 +53,7 @@ Column | Type         | Description
 
 The corpus can be found in zip file in the following directory <pre>data/COLING/</pre>
 
-The zip files contains the following files:
+The zip file contains the following files:
 1. cerec.conll - The CEREC corpus containing 6001 email threads, and their mention and coreference annotations.
 2. cerec.validation.XX.conll - Email threads used in the validation set for CEREC experiments. These email threads were also used as validation and test sets for feature evaluation.
 3. mention.corrected.XX.conll - Email threads that were manually corrected for mention annotations and then used to train a model for annotation quality evaluation.
