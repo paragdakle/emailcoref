@@ -23,7 +23,7 @@ More details are available in [our paper](https://www.aclweb.org/anthology/2020.
 
 ## Corpus Description
 
-The seed corpus contains 6001 email threads from the Enron Email Corpus containing 36,448 emailmessages and 38,996 entity coreference chains.
+CEREC contains 6001 email threads from the Enron Email Corpus containing 36,448 emailmessages and 38,996 entity coreference chains.
 
 An email thread annotation is saved in the CoNLL format with the following naming convention:
 
@@ -51,18 +51,15 @@ Column | Type         | Description
 6      | Mention | Mention information encoded in a parenthesis structure.
 7      | Coreference | Coreference chain information encoded in a parenthesis structure.
 
+The corpus can be found in the <pre>data/COLING/cerec.zip</pre> file. The zip files contains the following files:
+1. cerec.conll - The CEREC corpus containing 6001 email threads, and their mention and coreference annotations.
+2. cerec.validation.XX.conll - Email threads used in the validation set for CEREC experiments. These email threads were also used as validation and test sets for feature evaluation.
+3. mention.corrected.XX.conll - Email threads that were manually corrected for mention annotations and then used to train a model for annotation quality evaluation.
+4. seed.conll - The email threads from the seed corpus containing feature annotations and separated mention annotations.
+
 ## Experiments
 
 The code used to generate the results can be found [here](https://github.com/mandarjoshi90/coref). Evalution scripts for all metrics can be found [here](https://github.com/conll/reference-coreference-scorers).
-
-[The code to convert predictions back to CoNLL format in the coref repository did not work for us. Our .jsonlines to .conll converter can be found in jsonlines2conll.py and can be run as follows:]: #
-
-[python3 jsonlines2conll.py <jsonlines_filepath> <gold_conll_filepath> <output_filepath>]: #
-    
-[where
-jsonlines_filepath: The path to the  predicted .jsonlines file which is to be converted back to a .conll file with the predicted coreference annotations.
-gold_conll_filepath: The path to the gold .conll file which was used as an input for obtaining predictions.
-output_filepath: The path to save the generated .conll filepath.]:#
 
 
 # Seed Annotated Corpus for Entity Resolution in Email Conversations
@@ -93,7 +90,7 @@ More details are available in [our paper](http://www.lrec-conf.org/proceedings/l
 
 ## Corpus Description
 
-The seed corpus contains 46 email threads comprising of 245 email messages. These threads are split into a 36:10 train:test split.
+The seed corpus contains 46 email threads comprising of 245 email messages. These threads are split into a 36:10 train:test split. The corpus can be found in the <pre>data/LREC/</pre> directory.
 
 An email thread annotation is saved in the CoNLL format with the following naming convention:
 
