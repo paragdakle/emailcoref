@@ -25,6 +25,8 @@ More details are available in [our paper](https://www.aclweb.org/anthology/2020.
 
 CEREC contains 6001 email threads from the Enron Email Corpus containing 36,448 emailmessages and 38,996 entity coreference chains.
 
+> <strong>For using just the Seed corpus, follow the instructions provided [here](https://github.com/paragdakle/emailcoref/blob/master/data/LREC/).</strong>
+
 An email thread annotation is saved in the CoNLL format with the following naming convention:
 
 username_directory_email_no.conll
@@ -62,6 +64,3 @@ The zip file contains the following files:
 ## Experiments
 
 The code used to generate the results can be found [here](https://github.com/mandarjoshi90/coref). Evalution scripts for all metrics can be found [here](https://github.com/conll/reference-coreference-scorers).
-
-
-> For using just the seed corpus, follow the instructions provided [here](https://github.com/paragdakle/emailcoref/blob/master/data/LREC/).
