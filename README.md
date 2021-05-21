@@ -39,7 +39,7 @@ directory - Name of the directory for the specific user.
 
 email_no - Filename in the specific directory.
 
-Each annotation file is an eight column tab separated file and contains speaker, entity type (P: PER, O: ORG, L: LOC, D: DIG) and coreference annotations. Detailed column information in the order found is as follows:
+Each annotation file is an eight column double tab separated file, and contains mention and coreference annotations. Detailed column information in the order found is as follows:
 
 The columns contain:
 
