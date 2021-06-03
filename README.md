@@ -2,7 +2,7 @@
 
 Corpus containing 6001 Enron email threads weakly-annotated for entity coreference resolution task. The actual emails can be downloaded from [here](https://www.cs.cmu.edu/~./enron/).
 
-More details are available in [our paper](https://www.aclweb.org/anthology/2020.coling-main.30.pdf) (which should be cited if you use or discuss CEREC in your work). An updated copy has been published on arxiv.org and a link for the same will be posted here once available.
+More details are available in [our paper](https://www.aclweb.org/anthology/2020.coling-main.30.pdf) (which should be cited if you use or discuss CEREC in your work). An updated copy has been published [here](https://arxiv.org/abs/2105.10606).
 
 </p>
 <div class="highlight highlight-source-shell"><pre>
