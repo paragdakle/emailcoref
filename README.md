@@ -24,8 +24,7 @@ More details are available in [our paper](https://www.aclweb.org/anthology/2020.
 For the updated copy of paper with corrected numbers use the following citation:
 
 <div class="highlight highlight-source-shell"><pre>
-
-@article{Dakle_2020,
+@article{dakle-moldovan-2020-cerec,
     title={CEREC: A Corpus for Entity Resolution in Email Conversations},
     url={http://dx.doi.org/10.18653/v1/2020.coling-main.30},
     DOI={10.18653/v1/2020.coling-main.30},
@@ -34,7 +33,6 @@ For the updated copy of paper with corrected numbers use the following citation:
     author={Dakle, Parag Pravin and Moldovan, Dan},
     year={2020}
 }
-
 </pre></div>
 
 ## Corpus Description
